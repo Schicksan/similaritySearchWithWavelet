@@ -1,0 +1,628 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+Andrea Barzagli,it ITA,DF,31,34,34,"2,955",32.8,0,1,0,0,0,5,0,0.00,0.03,0.03,0.00,0.03,Matches
+Leonardo Bonucci,it ITA,DF,25,33,33,"2,960",32.9,0,0,0,0,0,10,0,0.00,0.00,0.00,0.00,0.00,Matches
+Gianluigi Buffon,it ITA,GK,34,32,32,"2,880",32.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Andrea Pirlo,it ITA,MF,33,32,32,"2,857",31.7,5,7,5,0,1,8,0,0.16,0.22,0.38,0.16,0.38,Matches
+Arturo Vidal,cl CHI,MF,25,31,29,"2,584",28.7,10,7,5,5,7,11,0,0.35,0.24,0.59,0.17,0.42,Matches
+Claudio Marchisio,it ITA,MF,26,29,28,"2,470",27.4,6,2,6,0,0,4,0,0.22,0.07,0.29,0.22,0.29,Matches
+Stephan Lichtsteiner,ch SUI,"DF,MF",28,28,25,"2,064",22.9,4,2,4,0,0,6,0,0.17,0.09,0.26,0.17,0.26,Matches
+Mirko Vučinić,me MNE,FW,28,31,24,"2,066",23.0,10,8,8,2,2,5,0,0.44,0.35,0.78,0.35,0.70,Matches
+Giorgio Chiellini,it ITA,DF,27,24,23,"2,038",22.6,1,2,1,0,0,5,0,0.04,0.09,0.13,0.04,0.13,Matches
+Sebastian Giovinco,it ITA,"FW,MF",25,31,23,"1,953",21.7,7,6,6,1,1,4,0,0.32,0.28,0.60,0.28,0.55,Matches
+Kwadwo Asamoah,gh GHA,"DF,MF",23,27,22,"1,972",21.9,2,6,2,0,0,1,0,0.09,0.27,0.37,0.09,0.37,Matches
+Paul Pogba,fr FRA,MF,19,27,18,"1,741",19.3,5,0,5,0,0,1,1,0.26,0.00,0.26,0.26,0.26,Matches
+Fabio Quagliarella,it ITA,FW,29,27,13,"1,156",12.8,9,4,9,0,0,0,0,0.70,0.31,1.01,0.70,1.01,Matches
+Martín Cáceres,uy URU,DF,25,18,12,"1,218",13.5,1,0,1,0,0,1,0,0.07,0.00,0.07,0.07,0.07,Matches
+Paolo De Ceglie,it ITA,DF,25,14,12,870,9.7,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Alessandro Matri,it ITA,FW,27,22,10,"1,008",11.2,8,0,8,0,0,3,0,0.71,0.00,0.71,0.71,0.71,Matches
+Emanuele Giaccherini,it ITA,"FW,MF",27,17,10,949,10.5,3,3,3,0,0,1,0,0.28,0.28,0.57,0.28,0.57,Matches
+Luca Marrone,it ITA,"DF,MF",22,10,8,756,8.4,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mauricio Isla,cl CHI,"DF,MF",24,11,8,586,6.5,0,1,0,0,0,1,0,0.00,0.15,0.15,0.00,0.15,Matches
+Federico Peluso,it ITA,DF,28,12,7,701,7.8,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Simone Padoin,it ITA,"DF,MF",28,20,6,779,8.7,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Marco Storari,it ITA,GK,35,6,6,529,5.9,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nicklas Bendtner,dk DEN,FW,24,9,2,346,3.8,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Lúcio,br BRA,DF,34,1,1,90,1.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nicolas Anelka,fr FRA,FW,33,2,0,43,0.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Simone Pepe,it ITA,"FW,MF",28,1,0,22,0.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Rubinho,br BRA,GK,29,1,0,11,0.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Stefano Beltrame,it ITA,"FW,MF",19,1,0,9,0.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Marek Hamšík,sk SVK,MF,25,38,37,"3,266",36.3,11,14,11,0,0,2,0,0.30,0.39,0.69,0.30,0.69,Matches
+Morgan De Sanctis,it ITA,GK,35,34,34,"3,060",34.0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Edinson Cavani,uy URU,"FW,MF",25,34,33,"2,981",33.1,29,3,22,7,10,6,0,0.88,0.09,0.97,0.66,0.75,Matches
+Paolo Cannavaro,it ITA,DF,31,32,32,"2,845",31.6,1,1,1,0,0,8,0,0.03,0.03,0.06,0.03,0.06,Matches
+Valon Behrami,ch SUI,"DF,MF",27,33,32,"2,615",29.1,0,0,0,0,0,14,0,0.00,0.00,0.00,0.00,0.00,Matches
+Christian Maggio,it ITA,"DF,MF",30,31,31,"2,713",30.1,4,5,4,0,0,3,0,0.13,0.17,0.30,0.13,0.30,Matches
+Juan Zúñiga,co COL,"DF,MF",26,32,30,"2,618",29.1,0,4,0,0,0,3,0,0.00,0.14,0.14,0.00,0.14,Matches
+Hugo Campagnaro,ar ARG,DF,32,28,27,"2,412",26.8,1,1,1,0,0,8,0,0.04,0.04,0.07,0.04,0.07,Matches
+Gökhan Inler,ch SUI,MF,28,31,25,"2,177",24.2,6,2,6,0,0,7,0,0.25,0.08,0.33,0.25,0.33,Matches
+Goran Pandev,mk MKD,FW,29,33,25,"2,080",23.1,6,7,6,0,0,3,0,0.26,0.30,0.56,0.26,0.56,Matches
+Alessandro Gamberini,it ITA,DF,30,25,24,"1,892",21.0,1,0,1,0,0,3,0,0.05,0.00,0.05,0.05,0.05,Matches
+Miguel Britos,uy URU,DF,27,22,22,"1,797",20.0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Blerim Džemaili,ch SUI,MF,26,34,19,"1,965",21.8,7,2,7,0,0,7,0,0.32,0.09,0.41,0.32,0.41,Matches
+Lorenzo Insigne,it ITA,"FW,MF",21,37,16,"1,766",19.6,5,7,5,0,0,3,0,0.25,0.36,0.61,0.25,0.61,Matches
+Giandomenico Mesto,it ITA,"DF,MF",30,16,7,738,8.2,1,1,1,0,0,1,0,0.12,0.12,0.24,0.12,0.24,Matches
+Pablo Armero,co COL,"DF,MF",25,15,4,584,6.5,0,3,0,0,0,2,0,0.00,0.46,0.46,0.00,0.46,Matches
+Rolando,pt POR,DF,26,7,4,394,4.4,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Antonio Rosati,it ITA,GK,29,4,4,360,4.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Andrea Dossena,it ITA,"DF,MF",30,7,3,289,3.2,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Salvatore Aronica,it ITA,DF,34,5,3,216,2.4,0,2,0,0,0,2,0,0.00,0.83,0.83,0.00,0.83,Matches
+Gianluca Grava,it ITA,DF,35,2,2,146,1.6,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Omar El Kaddouri,ma MAR,MF,21,7,1,231,2.6,0,1,0,0,0,0,0,0.00,0.39,0.39,0.00,0.39,Matches
+Marco Donadel,it ITA,MF,29,4,1,122,1.4,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Emanuele Calaiò,it ITA,FW,30,6,1,116,1.3,0,1,0,0,0,0,0,0.00,0.78,0.78,0.00,0.78,Matches
+Federico Fernández,ar ARG,DF,23,2,1,103,1.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Eduardo Vargas,cl CHI,"FW,MF",22,9,0,129,1.4,0,1,0,0,0,3,0,0.00,0.70,0.70,0.00,0.70,Matches
+Roberto Insigne,it ITA,"FW,MF",18,1,0,5,0.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Stephan El Shaarawy,it ITA,"FW,MF",19,37,34,"2,825",31.4,16,5,16,0,0,3,0,0.51,0.16,0.67,0.51,0.67,Matches
+Riccardo Montolivo,it ITA,MF,27,32,31,"2,698",30.0,4,2,4,0,0,6,0,0.13,0.07,0.20,0.13,0.20,Matches
+Christian Abbiati,it ITA,GK,35,28,28,"2,444",27.2,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ignazio Abate,it ITA,"DF,MF",25,27,25,"2,291",25.5,0,2,0,0,0,2,0,0.00,0.08,0.08,0.00,0.08,Matches
+Mattia De Sciglio,it ITA,DF,19,27,25,"2,226",24.7,0,2,0,0,0,3,0,0.00,0.08,0.08,0.00,0.08,Matches
+Philippe Mexès,fr FRA,DF,30,25,25,"2,186",24.3,1,1,1,0,0,11,0,0.04,0.04,0.08,0.04,0.08,Matches
+Kevin-Prince Boateng,gh GHA,"FW,MF",25,29,25,"2,122",23.6,2,4,2,0,0,5,2,0.08,0.17,0.25,0.08,0.25,Matches
+Cristián Zapata,co COL,DF,25,23,22,"1,931",21.5,0,1,0,0,0,5,1,0.00,0.05,0.05,0.00,0.05,Matches
+Kévin Constant,gn GUI,"DF,MF",25,25,20,"1,874",20.8,0,1,0,0,0,3,1,0.00,0.05,0.05,0.00,0.05,Matches
+Antonio Nocerino,it ITA,MF,27,26,20,"1,698",18.9,2,1,2,0,0,3,0,0.11,0.05,0.16,0.11,0.16,Matches
+Massimo Ambrosini,it ITA,MF,35,20,16,"1,237",13.7,0,1,0,0,0,10,1,0.00,0.07,0.07,0.00,0.07,Matches
+Giampaolo Pazzini,it ITA,FW,27,30,15,"1,633",18.1,15,3,12,3,3,7,0,0.83,0.17,0.99,0.66,0.83,Matches
+Mathieu Flamini,fr FRA,MF,28,18,15,"1,289",14.3,4,1,4,0,0,3,1,0.28,0.07,0.35,0.28,0.35,Matches
+Mario Yepes,co COL,DF,36,14,13,"1,177",13.1,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches
+Daniele Bonera,it ITA,DF,31,13,13,"1,129",12.5,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mario Balotelli,it ITA,FW,21,13,12,"1,146",12.7,12,0,6,6,6,6,0,0.94,0.00,0.94,0.47,0.47,Matches
+Robinho,br BRA,"FW,MF",28,23,11,"1,021",11.3,2,5,1,1,1,0,0,0.18,0.44,0.62,0.09,0.53,Matches
+Sulley Muntari,gh GHA,MF,27,15,11,971,10.8,1,0,1,0,0,4,1,0.09,0.00,0.09,0.09,0.09,Matches
+Marco Amelia,it ITA,GK,30,11,10,976,10.8,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nigel de Jong,nl NED,MF,27,12,10,894,9.9,1,0,1,0,0,3,0,0.10,0.00,0.10,0.10,0.10,Matches
+M'Baye Niang,sn SEN,"FW,MF",17,20,9,873,9.7,0,1,0,0,0,3,0,0.00,0.10,0.10,0.00,0.10,Matches
+Urby Emanuelson,nl NED,"DF,FW",26,12,8,738,8.2,1,3,1,0,0,1,0,0.12,0.37,0.49,0.12,0.49,Matches
+Bojan Krkić,es ESP,"FW,MF",21,19,5,743,8.3,3,2,3,0,0,1,0,0.36,0.24,0.61,0.36,0.61,Matches
+Francesco Acerbi,it ITA,DF,24,6,5,473,5.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Luca Antonini,it ITA,"DF,MF",29,6,5,422,4.7,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Alexandre Pato,br BRA,"FW,MF",22,4,3,207,2.3,0,1,0,0,1,0,0,0.00,0.43,0.43,0.00,0.43,Matches
+Bakaye Traoré,ml MLI,MF,27,7,1,117,1.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Djamel Mesbah,dz ALG,"DF,MF",27,1,1,90,1.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Cristian Zaccardo,it ITA,DF,30,1,0,45,0.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Borja Valero,es ESP,MF,27,37,37,"3,274",36.4,1,12,1,0,0,4,0,0.03,0.33,0.36,0.03,0.36,Matches
+Gonzalo Rodríguez,ar ARG,DF,28,35,35,"3,122",34.7,6,2,4,2,2,10,1,0.17,0.06,0.23,0.12,0.17,Matches
+Manuel Pasqual,it ITA,"DF,MF",30,35,35,"3,067",34.1,2,7,2,0,0,4,0,0.06,0.21,0.26,0.06,0.26,Matches
+Juan Cuadrado,co COL,"DF,FW",24,36,34,"2,955",32.8,5,7,5,0,0,11,0,0.15,0.21,0.37,0.15,0.37,Matches
+Emiliano Viviano,it ITA,GK,26,32,32,"2,862",31.8,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Stevan Jovetić,me MNE,"FW,MF",22,31,31,"2,509",27.9,13,5,12,1,2,3,0,0.47,0.18,0.65,0.43,0.61,Matches
+David Pizarro,cl CHI,MF,32,29,28,"2,475",27.5,3,2,0,3,3,13,0,0.11,0.07,0.18,0.00,0.07,Matches
+Stefan Savić,me MNE,"DF,MF",21,26,26,"2,217",24.6,2,0,2,0,0,5,0,0.08,0.00,0.08,0.08,0.08,Matches
+Facundo Roncaglia,ar ARG,DF,25,24,24,"2,136",23.7,3,0,3,0,0,9,0,0.13,0.00,0.13,0.13,0.13,Matches
+Nenad Tomović,rs SRB,DF,24,26,23,"2,051",22.8,0,1,0,0,0,4,1,0.00,0.04,0.04,0.00,0.04,Matches
+Adem Ljajić,rs SRB,"FW,MF",20,28,21,"1,612",17.9,11,6,10,1,1,2,0,0.61,0.33,0.95,0.56,0.89,Matches
+Alberto Aquilani,it ITA,MF,28,25,20,"1,662",18.5,7,6,7,0,1,6,1,0.38,0.32,0.70,0.38,0.70,Matches
+Luca Toni,it ITA,FW,35,27,15,"1,320",14.7,8,3,8,0,0,2,0,0.55,0.20,0.75,0.55,0.75,Matches
+Rômulo,it ITA,"DF,MF",25,20,10,999,11.1,2,2,2,0,0,1,0,0.18,0.18,0.36,0.18,0.36,Matches
+Giulio Migliaccio,it ITA,"DF,MF",31,24,9,"1,003",11.1,1,0,1,0,0,5,0,0.09,0.00,0.09,0.09,0.09,Matches
+Matías Fernández,cl CHI,MF,26,22,9,997,11.1,1,2,1,0,1,1,0,0.09,0.18,0.27,0.09,0.27,Matches
+Marvin Compper,de GER,DF,27,7,6,601,6.7,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Neto,br BRA,GK,23,6,6,540,6.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mattia Cassani,it ITA,DF,28,8,4,309,3.4,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Rubén Olivera,uy URU,MF,29,4,4,300,3.3,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mounir El Hamdaoui,ma MAR,FW,28,19,3,616,6.8,3,1,3,0,0,0,0,0.44,0.15,0.58,0.44,0.58,Matches
+Marcelo Larrondo,cl CHI,FW,23,7,2,274,3.0,2,0,2,0,0,1,0,0.66,0.00,0.66,0.66,0.66,Matches
+Haris Seferović,ch SUI,FW,20,7,1,189,2.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Cristian Llama,ar ARG,MF,26,5,1,122,1.4,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mohamed Sissoko,ml MLI,MF,27,5,1,120,1.3,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Matija Nastasić,rs SRB,DF,19,1,1,90,1.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ahmed Hegazi,eg EGY,DF,21,2,0,32,0.4,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Rafał Wolski,pl POL,"FW,MF",19,1,0,31,0.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Giuseppe Rossi,it ITA,FW,25,1,0,27,0.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Cristiano Lupatelli,it ITA,GK,34,1,0,18,0.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Allan,br BRA,"DF,MF",21,36,33,"3,039",33.8,0,6,0,0,0,6,0,0.00,0.18,0.18,0.00,0.18,Matches
+Danilo Larangeira,br BRA,DF,28,32,32,"2,817",31.3,2,1,2,0,0,10,2,0.06,0.03,0.10,0.06,0.10,Matches
+Roberto Pereyra,ar ARG,"FW,MF",21,37,31,"2,806",31.2,5,1,5,0,0,2,0,0.16,0.03,0.19,0.16,0.19,Matches
+Antonio Di Natale,it ITA,FW,34,33,31,"2,691",29.9,23,4,19,4,6,4,0,0.77,0.13,0.90,0.64,0.77,Matches
+Željko Brkić,rs SRB,GK,26,31,31,"2,662",29.6,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches
+Maurizio Domizzi,it ITA,DF,32,30,29,"2,557",28.4,2,2,2,0,0,12,0,0.07,0.07,0.14,0.07,0.14,Matches
+Dušan Basta,rs SRB,"DF,MF",27,28,27,"2,417",26.9,1,3,1,0,0,2,0,0.04,0.11,0.15,0.04,0.15,Matches
+Andrea Lazzari,it ITA,MF,27,24,21,"1,679",18.7,1,4,1,0,0,6,1,0.05,0.21,0.27,0.05,0.27,Matches
+Medhi Benatia,ma MAR,DF,25,19,19,"1,621",18.0,2,1,2,0,0,5,0,0.11,0.06,0.17,0.11,0.17,Matches
+Giovanni Pasquale,it ITA,DF,30,18,17,"1,459",16.2,1,1,1,0,0,1,0,0.06,0.06,0.12,0.06,0.12,Matches
+Giampiero Pinzi,it ITA,MF,31,19,17,"1,384",15.4,3,2,3,0,0,9,0,0.20,0.13,0.33,0.20,0.33,Matches
+Luis Muriel,co COL,FW,21,22,15,"1,386",15.4,11,3,11,0,0,5,0,0.71,0.19,0.91,0.71,0.91,Matches
+Maicosuel,br BRA,MF,26,20,15,"1,206",13.4,2,2,2,0,0,4,0,0.15,0.15,0.30,0.15,0.30,Matches
+Emmanuel Agyemang-Badu,gh GHA,MF,21,25,14,"1,535",17.1,0,1,0,0,0,2,0,0.00,0.06,0.06,0.00,0.06,Matches
+Thomas Heurtaux,fr FRA,DF,24,17,13,"1,259",14.0,0,0,0,0,0,2,2,0.00,0.00,0.00,0.00,0.00,Matches
+Gabriel Silva,br BRA,"DF,MF",21,18,13,"1,231",13.7,1,3,1,0,0,1,0,0.07,0.22,0.29,0.07,0.29,Matches
+Gabriele Angella,it ITA,DF,23,14,11,"1,073",11.9,4,0,4,0,0,4,0,0.34,0.00,0.34,0.34,0.34,Matches
+Andrea Coda,it ITA,DF,27,11,10,837,9.3,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Pablo Armero,co COL,"DF,MF",25,10,8,753,8.4,0,1,0,0,0,2,0,0.00,0.12,0.12,0.00,0.12,Matches
+Daniele Padelli,it ITA,GK,26,9,7,758,8.4,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Davide Faraoni,it ITA,"DF,MF",20,11,6,526,5.8,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Piotr Zieliński,pl POL,MF,18,9,4,318,3.5,0,1,0,0,0,1,0,0.00,0.28,0.28,0.00,0.28,Matches
+Diego Fabbrini,it ITA,"FW,MF",22,7,4,278,3.1,0,1,0,0,0,0,0,0.00,0.32,0.32,0.00,0.32,Matches
+Mathias Ranégie,se SWE,FW,28,20,3,482,5.4,1,0,1,0,0,1,0,0.19,0.00,0.19,0.19,0.19,Matches
+Willians,br BRA,MF,26,5,3,170,1.9,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Paulo Vitor Barreto,br BRA,FW,27,4,2,152,1.7,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Alexander Merkel,kz KAZ,MF,20,5,1,121,1.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Cristian Battocchio,it ITA,MF,20,1,1,90,1.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Matías Campos,cl CHI,"DF,MF",23,4,0,87,1.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Diego Rodríguez,uy URU,MF,22,1,0,2,0.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Francesco Totti,it ITA,"FW,MF",35,34,33,"2,811",31.2,12,12,9,3,4,7,1,0.38,0.38,0.77,0.29,0.67,Matches
+Leandro Castán,br BRA,DF,25,30,30,"2,683",29.8,1,0,1,0,0,6,0,0.03,0.00,0.03,0.03,0.03,Matches
+Érik Lamela,ar ARG,"FW,MF",20,33,30,"2,597",28.9,15,4,15,0,0,7,0,0.52,0.14,0.66,0.52,0.66,Matches
+Iván Piris,py PAR,DF,23,29,28,"2,405",26.7,0,3,0,0,0,5,0,0.00,0.11,0.11,0.00,0.11,Matches
+Dani Osvaldo,it ITA,FW,26,29,25,"2,315",25.7,16,2,14,2,3,6,1,0.62,0.08,0.70,0.54,0.62,Matches
+Nicolás Burdisso,ar ARG,DF,31,25,25,"2,250",25.0,1,0,1,0,0,9,0,0.04,0.00,0.04,0.04,0.04,Matches
+Alessandro Florenzi,it ITA,"DF,FW",21,36,25,"2,145",23.8,3,4,3,0,0,3,0,0.13,0.17,0.29,0.13,0.29,Matches
+Michael Bradley,us USA,MF,25,30,24,"2,201",24.5,1,2,1,0,0,5,0,0.04,0.08,0.12,0.04,0.12,Matches
+Federico Balzaretti,it ITA,DF,30,27,24,"2,005",22.3,0,2,0,0,0,5,1,0.00,0.09,0.09,0.00,0.09,Matches
+Marquinhos,br BRA,"DF,MF",18,26,22,"2,092",23.2,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches
+Daniele De Rossi,it ITA,"DF,MF",29,25,21,"1,755",19.5,0,5,0,0,0,6,1,0.00,0.26,0.26,0.00,0.26,Matches
+Miralem Pjanić,ba BIH,MF,22,27,20,"1,706",19.0,3,6,3,0,0,7,1,0.16,0.32,0.47,0.16,0.47,Matches
+Maarten Stekelenburg,nl NED,GK,29,19,19,"1,665",18.5,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Panagiotis Tachtsidis,gr GRE,MF,21,21,17,"1,438",16.0,1,2,1,0,0,8,1,0.06,0.13,0.19,0.06,0.19,Matches
+Mauro Goicoechea,uy URU,GK,24,15,13,"1,260",14.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Marquinho,br BRA,"DF,MF",26,26,11,"1,274",14.2,4,0,4,0,0,2,0,0.28,0.00,0.28,0.28,0.28,Matches
+Mattia Destro,it ITA,FW,21,21,11,"1,109",12.3,6,1,6,0,0,6,1,0.49,0.08,0.57,0.49,0.57,Matches
+Vasilis Torosidis,gr GRE,"DF,MF",27,11,9,822,9.1,1,0,1,0,0,3,0,0.11,0.00,0.11,0.11,0.11,Matches
+Dodô,br BRA,DF,20,11,7,631,7.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Simone Perrotta,it ITA,MF,34,16,5,584,6.5,2,0,2,0,0,0,0,0.31,0.00,0.31,0.31,0.31,Matches
+Bogdan Lobonț,ro ROU,GK,34,5,5,405,4.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Rodrigo Taddei,br BRA,"DF,FW",32,4,2,220,2.4,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Alessio Romagnoli,it ITA,DF,17,2,1,101,1.1,1,0,1,0,0,0,0,0.89,0.00,0.89,0.89,0.89,Matches
+Nicolás López,uy URU,"FW,MF",18,6,0,62,0.7,1,0,1,0,0,0,0,1.45,0.00,1.45,1.45,1.45,Matches
+Cristian Ledesma,it ITA,MF,29,36,35,"2,951",32.8,1,1,0,1,2,8,1,0.03,0.03,0.06,0.00,0.03,Matches
+Federico Marchetti,it ITA,GK,29,33,33,"2,970",33.0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Antonio Candreva,it ITA,"DF,FW",25,35,32,"2,696",30.0,6,5,3,3,3,6,1,0.20,0.17,0.37,0.10,0.27,Matches
+Giuseppe Biava,it ITA,DF,35,31,30,"2,623",29.1,1,1,1,0,0,7,2,0.03,0.03,0.07,0.03,0.07,Matches
+Hernanes,br BRA,MF,27,34,30,"2,550",28.3,11,4,9,2,3,4,1,0.39,0.14,0.53,0.32,0.46,Matches
+Senad Lulić,ba BIH,"DF,MF",26,33,29,"2,606",29.0,1,6,1,0,0,9,0,0.03,0.21,0.24,0.03,0.24,Matches
+Álvaro González,uy URU,MF,27,34,29,"2,482",27.6,1,2,1,0,0,4,0,0.04,0.07,0.11,0.04,0.11,Matches
+Miroslav Klose,de GER,FW,34,29,26,"2,180",24.2,15,1,15,0,0,5,0,0.62,0.04,0.66,0.62,0.66,Matches
+André Dias,br BRA,DF,33,27,25,"2,149",23.9,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches
+Abdoulay Konko,fr FRA,"DF,MF",28,25,25,"2,069",23.0,1,3,1,0,0,3,0,0.04,0.13,0.17,0.04,0.17,Matches
+Stefano Mauri,it ITA,"FW,MF",32,26,23,"1,905",21.2,3,5,2,1,1,3,1,0.14,0.24,0.38,0.09,0.33,Matches
+Ștefan Radu,ro ROU,DF,25,23,22,"1,939",21.5,1,0,1,0,0,4,0,0.05,0.00,0.05,0.05,0.05,Matches
+Lorik Cana,al ALB,"DF,MF",29,24,13,"1,430",15.9,0,0,0,0,0,9,0,0.00,0.00,0.00,0.00,0.00,Matches
+Michaël Ciani,fr FRA,DF,28,18,13,"1,195",13.3,0,1,0,0,0,5,1,0.00,0.08,0.08,0.00,0.08,Matches
+Sergio Floccari,it ITA,FW,30,22,11,"1,173",13.0,5,1,5,0,0,1,0,0.38,0.08,0.46,0.38,0.46,Matches
+Ogenyi Onazi,ng NGA,MF,19,15,8,829,9.2,1,0,1,0,0,0,0,0.11,0.00,0.11,0.11,0.11,Matches
+Luis Pedro Cavanda,be BEL,"DF,MF",21,14,8,759,8.4,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Libor Kozák,cz CZE,FW,23,19,5,727,8.1,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches
+Albano Bizzarri,ar ARG,GK,34,5,5,450,5.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ederson,br BRA,MF,26,15,4,468,5.2,1,0,1,0,0,1,0,0.19,0.00,0.19,0.19,0.19,Matches
+Bruno Pereirinha,pt POR,"DF,MF",24,8,3,426,4.7,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Cristian Brocchi,it ITA,MF,36,8,2,197,2.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Tommaso Rocchi,it ITA,"FW,MF",34,3,2,154,1.7,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Marius Stankevičius,lt LTU,"DF,MF",31,3,2,151,1.7,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Louis Saha,fr FRA,FW,33,6,1,130,1.4,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Lionel Scaloni,ar ARG,"DF,MF",34,4,1,120,1.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mauro Zárate,ar ARG,"FW,MF",25,1,1,67,0.7,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Luca Crecco,it ITA,MF,16,1,0,24,0.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mariano Andújar,ar ARG,GK,29,34,34,"3,060",34.0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches
+Papu Gómez,ar ARG,"FW,MF",24,36,34,"2,962",32.9,8,7,8,0,0,5,0,0.24,0.21,0.46,0.24,0.46,Matches
+Francesco Lodi,it ITA,MF,28,33,33,"2,858",31.8,6,8,5,1,1,1,1,0.19,0.25,0.44,0.16,0.41,Matches
+Gonzalo Bergessio,ar ARG,FW,28,32,32,"2,666",29.6,13,5,13,0,1,7,0,0.44,0.17,0.61,0.44,0.61,Matches
+Mariano Julio Izco,ar ARG,MF,29,35,31,"2,812",31.2,1,4,1,0,0,3,0,0.03,0.13,0.16,0.03,0.16,Matches
+Pablo Barrientos,ar ARG,MF,27,31,30,"2,519",28.0,5,5,5,0,0,6,1,0.18,0.18,0.36,0.18,0.36,Matches
+Giovanni Marchese,it ITA,DF,27,30,29,"2,656",29.5,2,2,2,0,0,6,1,0.07,0.07,0.14,0.07,0.14,Matches
+Nicolás Spolli,ar ARG,DF,29,29,29,"2,533",28.1,2,1,2,0,0,9,0,0.07,0.04,0.11,0.07,0.11,Matches
+Nicola Legrottaglie,it ITA,DF,35,27,26,"2,279",25.3,3,0,3,0,0,9,1,0.12,0.00,0.12,0.12,0.12,Matches
+Pablo Álvarez,ar ARG,DF,28,27,26,"2,194",24.4,0,0,0,0,0,7,1,0.00,0.00,0.00,0.00,0.00,Matches
+Sergio Almirón,ar ARG,MF,31,30,26,"1,947",21.6,4,0,4,0,0,5,0,0.18,0.00,0.18,0.18,0.18,Matches
+Giuseppe Bellusci,it ITA,DF,22,26,22,"2,082",23.1,0,0,0,0,0,13,0,0.00,0.00,0.00,0.00,0.00,Matches
+Lucas Castro,ar ARG,MF,23,36,18,"2,036",22.6,4,6,4,0,0,5,0,0.18,0.27,0.44,0.18,0.44,Matches
+Marco Biagianti,it ITA,MF,28,28,17,"1,568",17.4,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Alexis Rolín,uy URU,DF,23,11,9,818,9.1,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ciro Capuano,it ITA,DF,31,14,9,676,7.5,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches
+Alberto Frison,it ITA,GK,24,4,4,360,4.0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Amidu Salifu,gh GHA,MF,19,10,4,295,3.3,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Keko,es ESP,"FW,MF",20,4,2,169,1.9,1,0,1,0,0,1,0,0.53,0.00,0.53,0.53,0.53,Matches
+Souleymane Doukara,mr MTN,"FW,MF",20,12,1,275,3.1,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mario Paglialunga,ar ARG,MF,23,6,1,201,2.2,1,0,1,0,0,0,0,0.45,0.00,0.45,0.45,0.45,Matches
+Takayuki Morimoto,jp JPN,"FW,MF",24,5,1,114,1.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Adrián Ricchiuti,it ITA,MF,34,8,0,100,1.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Alessandro Potenza,it ITA,DF,28,2,0,66,0.7,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Fabio Sciacca,it ITA,MF,23,3,0,52,0.6,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Błażej Augustyn,pl POL,DF,24,1,0,34,0.4,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Edgar Çani,al ALB,FW,23,4,0,33,0.4,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mirco Antenucci,it ITA,FW,27,1,0,15,0.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Bruno Petković,hr CRO,FW,17,1,0,2,0.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Samir Handanović,si SVN,GK,28,35,35,"3,150",35.0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Javier Zanetti,ar ARG,"DF,MF",38,33,33,"2,857",31.7,0,2,0,0,0,1,0,0.00,0.06,0.06,0.00,0.06,Matches
+Andrea Ranocchia,it ITA,DF,24,32,32,"2,788",31.0,2,1,2,0,0,12,0,0.06,0.03,0.10,0.06,0.10,Matches
+Juan Jesus,br BRA,DF,21,31,31,"2,697",30.0,1,1,1,0,0,14,1,0.03,0.03,0.07,0.03,0.07,Matches
+Esteban Cambiasso,ar ARG,MF,31,33,26,"2,409",26.8,3,5,3,0,0,3,1,0.11,0.19,0.30,0.11,0.30,Matches
+Fredy Guarín,co COL,MF,26,32,26,"2,384",26.5,4,3,4,0,0,6,0,0.15,0.11,0.26,0.15,0.26,Matches
+Walter Gargano,uy URU,MF,28,28,24,"2,109",23.4,0,2,0,0,0,8,0,0.00,0.09,0.09,0.00,0.09,Matches
+Antonio Cassano,it ITA,FW,30,28,23,"1,900",21.1,7,8,7,0,0,0,0,0.33,0.38,0.71,0.33,0.71,Matches
+Álvaro Pereira,uy URU,"DF,MF",26,28,22,"2,136",23.7,1,4,1,0,0,9,0,0.04,0.17,0.21,0.04,0.21,Matches
+Yuto Nagatomo,jp JPN,DF,25,25,22,"1,930",21.4,0,3,0,0,0,2,1,0.00,0.14,0.14,0.00,0.14,Matches
+Rodrigo Palacio,ar ARG,"FW,MF",30,26,20,"1,973",21.9,12,5,12,0,0,3,0,0.55,0.23,0.78,0.55,0.78,Matches
+Diego Milito,ar ARG,FW,33,20,19,"1,577",17.5,9,2,6,3,3,0,0,0.51,0.11,0.63,0.34,0.46,Matches
+Walter Samuel,ar ARG,DF,34,16,15,"1,366",15.2,1,0,1,0,0,5,0,0.07,0.00,0.07,0.07,0.07,Matches
+Ricky Álvarez,ar ARG,MF,24,23,12,"1,182",13.1,5,1,4,1,2,0,0,0.38,0.08,0.46,0.30,0.38,Matches
+Mateo Kovačić,hr CRO,MF,18,13,11,"1,026",11.4,0,1,0,0,0,2,0,0.00,0.09,0.09,0.00,0.09,Matches
+Zdravko Kuzmanović,rs SRB,MF,24,13,10,891,9.9,0,1,0,0,0,0,0,0.00,0.10,0.10,0.00,0.10,Matches
+Tommaso Rocchi,it ITA,"FW,MF",34,13,8,730,8.1,3,0,3,0,0,1,0,0.37,0.00,0.37,0.37,0.37,Matches
+Jonathan Moreira,br BRA,DF,26,8,8,567,6.3,0,1,0,0,0,1,0,0.00,0.16,0.16,0.00,0.16,Matches
+Cristian Chivu,ro ROU,DF,31,10,7,598,6.6,1,1,1,0,0,2,1,0.15,0.15,0.30,0.15,0.30,Matches
+Matías Silvestre,ar ARG,DF,27,9,6,568,6.3,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ezequiel Schelotto,it ITA,"DF,MF",23,12,5,522,5.8,1,0,1,0,0,2,0,0.17,0.00,0.17,0.17,0.17,Matches
+Wesley Sneijder,nl NED,MF,28,5,5,360,4.0,1,1,1,0,0,0,0,0.25,0.25,0.50,0.25,0.50,Matches
+Gaby Mudingayi,be BEL,MF,30,9,4,305,3.4,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Philippe Coutinho,br BRA,"FW,MF",20,10,3,311,3.5,1,0,1,0,0,0,0,0.29,0.00,0.29,0.29,0.29,Matches
+Marco Benassi,it ITA,MF,17,6,3,263,2.9,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Simone Pasa,it ITA,"DF,MF",18,4,2,226,2.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Luca Castellazzi,it ITA,GK,37,2,2,180,2.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dejan Stanković,rs SRB,MF,33,3,1,114,1.3,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Marko Livaja,hr CRO,"FW,MF",18,6,1,111,1.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Joel Obi,ng NGA,MF,21,2,1,94,1.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Juan Pablo Carrizo,ar ARG,GK,28,1,1,90,1.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Luca Garritano,it ITA,"FW,MF",18,3,0,46,0.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Alfred Duncan,gh GHA,MF,19,3,0,28,0.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Lukas Spendlhofer,at AUT,DF,19,1,0,14,0.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+McDonald Mariga,ke KEN,MF,25,1,0,10,0.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Francesco Forte,it ITA,FW,19,1,0,5,0.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Gabriel Paletta,it ITA,DF,26,35,35,"3,087",34.3,1,1,1,0,0,8,0,0.03,0.03,0.06,0.03,0.06,Matches
+Marco Parolo,it ITA,MF,27,36,34,"2,999",33.3,3,2,3,0,0,10,0,0.09,0.06,0.15,0.09,0.15,Matches
+Massimo Gobbi,it ITA,"DF,MF",31,34,33,"2,943",32.7,1,1,1,0,0,4,0,0.03,0.03,0.06,0.03,0.06,Matches
+Antonio Mirante,it ITA,GK,29,33,33,"2,883",32.0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Alessandro Lucarelli,it ITA,DF,35,32,30,"2,735",30.4,1,0,1,0,0,12,0,0.03,0.00,0.03,0.03,0.03,Matches
+Jonathan Biabiany,fr FRA,"FW,MF",24,33,29,"2,618",29.1,2,5,2,0,0,6,0,0.07,0.17,0.24,0.07,0.24,Matches
+Jaime Valdés,cl CHI,"FW,MF",31,29,28,"2,403",26.7,4,2,2,2,3,14,0,0.15,0.07,0.22,0.07,0.15,Matches
+Amauri,it ITA,FW,32,33,26,"2,263",25.1,10,4,9,1,1,3,0,0.40,0.16,0.56,0.36,0.52,Matches
+Marco Marchionni,it ITA,MF,32,28,25,"2,253",25.0,1,2,1,0,0,8,0,0.04,0.08,0.12,0.04,0.12,Matches
+Aleandro Rosi,it ITA,"DF,MF",25,26,23,"1,959",21.8,3,0,3,0,0,6,1,0.14,0.00,0.14,0.14,0.14,Matches
+Ishak Belfodil,dz ALG,"FW,MF",20,33,22,"2,003",22.3,8,4,8,0,1,3,1,0.36,0.18,0.54,0.36,0.54,Matches
+Yohan Benalouane,tn TUN,DF,25,21,18,"1,474",16.4,1,0,1,0,0,8,1,0.06,0.00,0.06,0.06,0.06,Matches
+Nicola Sansone,it ITA,"FW,MF",20,26,17,"1,566",17.4,6,2,6,0,0,3,0,0.34,0.11,0.46,0.34,0.46,Matches
+Cristian Zaccardo,it ITA,DF,30,15,14,"1,251",13.9,1,1,1,0,0,3,0,0.07,0.07,0.14,0.07,0.14,Matches
+Daniele Galloppa,it ITA,MF,27,12,8,674,7.5,1,1,1,0,0,4,0,0.13,0.13,0.27,0.13,0.27,Matches
+Andrea Coda,it ITA,DF,27,8,6,471,5.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Sotiris Ninis,gr GRE,"FW,MF",22,14,5,589,6.5,0,2,0,0,0,2,0,0.00,0.31,0.31,0.00,0.31,Matches
+Nicola Pavarini,it ITA,GK,38,6,5,487,5.4,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dorlan Pabón,co COL,"FW,MF",24,12,5,477,5.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Gianluca Musacci,it ITA,MF,25,6,5,371,4.1,0,1,0,0,0,0,0,0.00,0.24,0.24,0.00,0.24,Matches
+Afriyie Acquah,gh GHA,MF,20,13,4,540,6.0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Fabiano Santacroce,it ITA,DF,25,8,4,397,4.4,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Álvaro Ampuero,pe PER,"DF,MF",19,5,4,298,3.3,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Djamel Mesbah,dz ALG,"DF,MF",27,7,3,406,4.5,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Stefano Morrone,it ITA,MF,33,3,1,88,1.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+McDonald Mariga,ke KEN,MF,25,2,1,30,0.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Raffaele Palladino,it ITA,"FW,MF",28,8,0,204,2.3,1,1,1,0,0,1,0,0.44,0.44,0.88,0.44,0.88,Matches
+Pavol Bajza,sk SVK,GK,20,1,0,50,0.6,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Rodney Strasser,sl SLE,MF,22,2,0,27,0.3,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Alberto Cerri,it ITA,FW,16,1,0,16,0.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ignacio Fideleff,ar ARG,DF,23,1,0,10,0.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Graziano Pellè,it ITA,FW,27,1,0,10,0.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Filippo Boniperti,it ITA,MF,20,2,0,8,0.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Michael Agazzi,it ITA,GK,28,35,35,"3,099",34.4,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches
+Radja Nainggolan,be BEL,MF,24,34,33,"2,970",33.0,2,2,2,0,0,13,0,0.06,0.06,0.12,0.06,0.12,Matches
+Davide Astori,it ITA,DF,25,32,31,"2,764",30.7,0,0,0,0,0,7,2,0.00,0.00,0.00,0.00,0.00,Matches
+Daniele Conti,it ITA,MF,33,29,29,"2,557",28.4,3,2,3,0,1,15,1,0.11,0.07,0.18,0.11,0.18,Matches
+Francesco Pisano,it ITA,DF,26,28,28,"2,427",27.0,1,1,1,0,0,7,1,0.04,0.04,0.07,0.04,0.07,Matches
+Luca Rossettini,it ITA,DF,27,28,28,"2,424",26.9,0,0,0,0,0,2,2,0.00,0.00,0.00,0.00,0.00,Matches
+Daniele Dessena,it ITA,MF,25,31,28,"2,307",25.6,3,1,3,0,0,13,0,0.12,0.04,0.16,0.12,0.16,Matches
+Albin Ekdal,se SWE,MF,23,31,27,"2,342",26.0,1,1,1,0,0,8,0,0.04,0.04,0.08,0.04,0.08,Matches
+Marco Sau,it ITA,"FW,MF",24,30,23,"1,951",21.7,12,1,11,1,1,3,0,0.55,0.05,0.60,0.51,0.55,Matches
+Víctor Ibarbo,co COL,"FW,MF",22,34,22,"2,069",23.0,6,1,6,0,0,1,0,0.26,0.04,0.30,0.26,0.30,Matches
+Danilo Avelar,br BRA,"DF,MF",23,20,19,"1,667",18.5,0,3,0,0,0,4,0,0.00,0.16,0.16,0.00,0.16,Matches
+Thiago Ribeiro,br BRA,FW,26,29,17,"1,472",16.4,2,1,2,0,0,3,0,0.12,0.06,0.18,0.12,0.18,Matches
+Lorenzo Ariaudo,it ITA,DF,23,17,15,"1,416",15.7,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Andrea Cossu,it ITA,MF,32,24,13,"1,195",13.3,0,8,0,0,0,4,1,0.00,0.60,0.60,0.00,0.60,Matches
+Nicola Murru,it ITA,DF,17,13,13,"1,073",11.9,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mauricio Pinilla,cl CHI,FW,28,23,12,"1,296",14.4,7,1,2,5,6,8,1,0.49,0.07,0.56,0.14,0.21,Matches
+Gabriele Perico,it ITA,DF,28,16,12,"1,101",12.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nenê,br BRA,FW,29,23,12,996,11.1,3,3,2,1,1,5,0,0.27,0.27,0.54,0.18,0.45,Matches
+Federico Casarini,it ITA,MF,22,11,4,371,4.1,1,0,1,0,0,1,0,0.24,0.00,0.24,0.24,0.24,Matches
+Vlada Avramov,rs SRB,GK,33,5,3,321,3.6,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Joaquín Larrivey,ar ARG,FW,27,3,2,195,2.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Sebastian Eriksson,se SWE,"DF,MF",23,8,1,166,1.8,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dario Del Fabro,it ITA,DF,17,3,1,152,1.7,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Matías Cabrera,uy URU,MF,26,7,0,240,2.7,0,2,0,0,0,3,0,0.00,0.75,0.75,0.00,0.75,Matches
+Pablo Ceppelini,uy URU,MF,20,1,0,8,0.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Cyril Théréau,fr FRA,FW,29,37,35,"2,999",33.3,11,4,10,1,1,3,0,0.33,0.12,0.45,0.30,0.42,Matches
+Dario Dainelli,it ITA,DF,33,34,34,"2,909",32.3,0,0,0,0,0,7,1,0.00,0.00,0.00,0.00,0.00,Matches
+Luca Rigoni,it ITA,MF,27,31,31,"2,708",30.1,1,3,1,0,0,12,0,0.03,0.10,0.13,0.03,0.13,Matches
+Marco Andreolli,it ITA,DF,26,28,28,"2,492",27.7,2,0,2,0,0,5,1,0.07,0.00,0.07,0.07,0.07,Matches
+Përparim Hetemaj,fi FIN,MF,25,30,28,"2,377",26.4,0,2,0,0,0,11,0,0.00,0.08,0.08,0.00,0.08,Matches
+Isaac Cofie,gh GHA,MF,20,27,23,"2,068",23.0,2,0,2,0,0,5,0,0.09,0.00,0.09,0.09,0.09,Matches
+Roberto Guana,it ITA,MF,31,23,22,"1,709",19.0,0,2,0,0,0,3,0,0.00,0.11,0.11,0.00,0.11,Matches
+Boukary Dramé,sn SEN,"DF,MF",27,22,21,"1,767",19.6,1,2,1,0,0,4,0,0.05,0.10,0.15,0.05,0.15,Matches
+Nicolas Frey,fr FRA,DF,28,21,20,"1,808",20.1,0,1,0,0,0,4,0,0.00,0.05,0.05,0.00,0.05,Matches
+Stefano Sorrentino,it ITA,GK,33,20,20,"1,800",20.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Boštjan Cesar,si SVN,DF,30,22,19,"1,723",19.1,0,0,0,0,0,10,0,0.00,0.00,0.00,0.00,0.00,Matches
+Gennaro Sardo,it ITA,DF,33,23,18,"1,559",17.3,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches
+Christian Puggioni,it ITA,GK,31,17,17,"1,530",17.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Alberto Paloschi,it ITA,FW,22,20,16,"1,280",14.2,7,0,5,2,2,1,0,0.49,0.00,0.49,0.35,0.35,Matches
+Bojan Jokić,si SVN,"DF,MF",26,20,13,"1,371",15.2,0,1,0,0,0,4,0,0.00,0.07,0.07,0.00,0.07,Matches
+Sergio Pellissier,it ITA,FW,33,24,13,"1,313",14.6,5,0,4,1,1,0,0,0.34,0.00,0.34,0.27,0.27,Matches
+Luciano,br BRA,MF,36,24,12,"1,113",12.4,1,4,0,1,2,4,0,0.08,0.32,0.40,0.00,0.32,Matches
+Adrian Stoian,ro ROU,MF,21,20,7,834,9.3,3,1,3,0,0,1,0,0.32,0.11,0.43,0.32,0.43,Matches
+Kamil Vacek,cz CZE,MF,25,11,7,666,7.4,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches
+Paul Papp,ro ROU,DF,22,8,6,525,5.8,1,0,1,0,0,4,0,0.17,0.00,0.17,0.17,0.17,Matches
+David Di Michele,it ITA,FW,36,11,6,512,5.7,1,1,1,0,0,0,0,0.18,0.18,0.35,0.18,0.35,Matches
+Francesco Acerbi,it ITA,DF,24,7,5,443,4.9,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Marco Rigoni,it ITA,MF,32,10,4,431,4.8,1,1,1,0,0,0,0,0.21,0.21,0.42,0.21,0.42,Matches
+Felipe Seymour,cl CHI,MF,25,7,3,361,4.0,0,1,0,0,0,1,0,0.00,0.25,0.25,0.00,0.25,Matches
+Mario Sampirisi,it ITA,"DF,MF",19,3,3,146,1.6,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Pavol Farkaš,sk SVK,DF,27,4,2,220,2.4,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mamadou Samassa,ml MLI,FW,26,8,1,241,2.7,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches
+Davide Moscardelli,it ITA,FW,32,7,1,196,2.2,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Rinaldo Cruzado,pe PER,MF,27,5,1,188,2.1,1,1,1,0,0,1,0,0.48,0.48,0.96,0.48,0.96,Matches
+N'Diaye Djiby,sn SEN,MF,18,1,1,90,1.0,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Lorenzo Squizzi,it ITA,GK,38,1,1,90,1.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nikos Spyropoulos,gr GRE,DF,28,2,0,41,0.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ali Sowe,gm GAM,FW,18,2,0,27,0.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Victor da Silva,br BRA,MF,17,1,0,22,0.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Gabriel Hauche,ar ARG,"FW,MF",25,1,0,11,0.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Alberto Gilardino,it ITA,FW,30,36,35,"3,048",33.9,13,3,13,0,0,4,0,0.38,0.09,0.47,0.38,0.47,Matches
+Alessandro Diamanti,it ITA,"FW,MF",29,34,33,"2,938",32.6,7,9,4,3,4,10,0,0.21,0.28,0.49,0.12,0.40,Matches
+Saphir Taïder,dz ALG,MF,20,34,32,"2,878",32.0,3,2,3,0,0,4,1,0.09,0.06,0.16,0.09,0.16,Matches
+Mikael Antonsson,se SWE,DF,31,31,31,"2,731",30.3,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nicolò Cherubin,it ITA,DF,25,29,29,"2,502",27.8,1,1,1,0,0,4,0,0.04,0.04,0.07,0.04,0.07,Matches
+Archimede Morleo,it ITA,DF,28,32,28,"2,438",27.1,0,2,0,0,0,9,1,0.00,0.07,0.07,0.00,0.07,Matches
+Panagiotis Kone,gr GRE,MF,25,31,26,"2,111",23.5,6,1,6,0,0,12,0,0.26,0.04,0.30,0.26,0.30,Matches
+Diego Pérez,uy URU,MF,32,23,23,"1,708",19.0,0,2,0,0,0,8,0,0.00,0.11,0.11,0.00,0.11,Matches
+György Garics,at AUT,"DF,MF",28,27,21,"1,943",21.6,0,3,0,0,0,6,0,0.00,0.14,0.14,0.00,0.14,Matches
+Federico Agliardi,it ITA,GK,29,22,20,"1,898",21.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Frederik Sørensen,dk DEN,DF,20,25,20,"1,826",20.3,1,1,1,0,0,6,0,0.05,0.05,0.10,0.05,0.10,Matches
+Manolo Gabbiadini,it ITA,FW,20,30,19,"1,726",19.2,6,2,5,1,1,7,0,0.31,0.10,0.42,0.26,0.37,Matches
+Marco Motta,it ITA,DF,26,19,18,"1,487",16.5,1,0,1,0,0,4,0,0.06,0.00,0.06,0.06,0.06,Matches
+Gianluca Curci,it ITA,GK,27,14,14,"1,162",12.9,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Rene Krhin,si SVN,"FW,MF",22,21,12,"1,312",14.6,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Tiberio Guarente,it ITA,MF,26,20,11,"1,042",11.6,2,0,2,0,0,4,1,0.17,0.00,0.17,0.17,0.17,Matches
+Michele Pazienza,it ITA,MF,29,15,10,877,9.7,0,1,0,0,0,5,0,0.00,0.10,0.10,0.00,0.10,Matches
+Lazaros Christodoulopoulos,gr GRE,"FW,MF",25,12,7,676,7.5,1,0,1,0,0,2,0,0.13,0.00,0.13,0.13,0.13,Matches
+Daniele Portanova,it ITA,DF,33,5,5,450,5.0,1,0,1,0,0,1,0,0.20,0.00,0.20,0.20,0.20,Matches
+Roger Carvalho,br BRA,DF,25,6,4,413,4.6,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dejan Stojanović,at AUT,GK,19,4,4,360,4.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Cesare Natali,it ITA,DF,33,5,4,347,3.9,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Cristian Pasquato,it ITA,"FW,MF",23,15,3,347,3.9,2,0,2,0,0,1,0,0.52,0.00,0.52,0.52,0.52,Matches
+Robert Acquafresca,it ITA,FW,24,6,3,276,3.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Naldo,br BRA,DF,23,5,2,269,3.0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nico Pulzetti,it ITA,MF,28,6,2,196,2.2,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mathías Abero,uy URU,"DF,MF",22,10,1,264,2.9,0,1,0,0,0,2,0,0.00,0.34,0.34,0.00,0.34,Matches
+Martí Riverola,es ESP,MF,21,1,1,50,0.6,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Davide Moscardelli,it ITA,FW,32,9,0,162,1.8,1,0,1,0,0,0,0,0.56,0.00,0.56,0.56,0.56,Matches
+Daniele Paponi,it ITA,FW,24,3,0,49,0.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Henry Giménez,uy URU,"FW,MF",26,2,0,37,0.4,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Daniele Gastaldello,it ITA,DF,29,33,33,"2,873",31.9,1,1,1,0,0,14,2,0.03,0.03,0.06,0.03,0.06,Matches
+Pedro Obiang,gq EQG,MF,20,34,32,"2,896",32.2,1,5,1,0,0,6,0,0.03,0.16,0.19,0.03,0.19,Matches
+Sergio Romero,ar ARG,GK,25,32,32,"2,825",31.4,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches
+Andrea Poli,it ITA,MF,22,31,31,"2,495",27.7,3,0,3,0,0,4,0,0.11,0.00,0.11,0.11,0.11,Matches
+Marcelo Estigarribia,py PAR,"DF,MF",24,34,29,"2,420",26.9,2,3,2,0,0,2,0,0.07,0.11,0.19,0.07,0.19,Matches
+Andrea Costa,it ITA,"DF,MF",26,27,27,"2,355",26.2,1,0,1,0,0,4,2,0.04,0.00,0.04,0.04,0.04,Matches
+Jonathan Rossini,ch SUI,DF,23,25,24,"2,164",24.0,0,1,0,0,0,2,0,0.00,0.04,0.04,0.00,0.04,Matches
+Mauro Icardi,ar ARG,FW,19,31,24,"2,120",23.6,10,2,10,0,0,3,0,0.42,0.08,0.51,0.42,0.51,Matches
+Éder,it ITA,FW,25,30,24,"2,045",22.7,7,4,4,3,3,5,0,0.31,0.18,0.48,0.18,0.35,Matches
+Nenad Krstičić,rs SRB,MF,22,25,22,"1,919",21.3,1,2,1,0,0,9,0,0.05,0.09,0.14,0.05,0.14,Matches
+Lorenzo De Silvestri,it ITA,"DF,MF",24,24,19,"1,839",20.4,2,0,2,0,0,4,0,0.10,0.00,0.10,0.10,0.10,Matches
+Gaetano Berardi,ch SUI,DF,23,21,18,"1,505",16.7,0,1,0,0,0,5,1,0.00,0.06,0.06,0.00,0.06,Matches
+Angelo Palombo,it ITA,MF,30,15,15,"1,325",14.7,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Enzo Maresca,it ITA,MF,32,16,15,"1,136",12.6,3,1,2,1,1,3,1,0.24,0.08,0.32,0.16,0.24,Matches
+Gianni Munari,it ITA,MF,29,27,14,"1,448",16.1,3,0,3,0,0,6,0,0.19,0.00,0.19,0.19,0.19,Matches
+Shkodran Mustafi,de GER,DF,20,17,12,"1,099",12.2,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches
+Maxi López,ar ARG,FW,28,17,9,889,9.9,4,2,3,1,1,1,0,0.40,0.20,0.61,0.30,0.51,Matches
+Roberto Soriano,it ITA,MF,21,24,8,998,11.1,0,2,0,0,0,4,0,0.00,0.18,0.18,0.00,0.18,Matches
+Gianluca Sansone,it ITA,FW,25,14,6,688,7.6,2,2,2,0,0,0,0,0.26,0.26,0.52,0.26,0.52,Matches
+Fernando Tissone,ar ARG,MF,26,12,6,610,6.8,0,2,0,0,0,3,0,0.00,0.30,0.30,0.00,0.30,Matches
+Paolo Castellini,it ITA,DF,33,7,4,423,4.7,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Angelo da Costa Júnior,br BRA,GK,28,4,4,360,4.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Renan Garcia,br BRA,MF,26,5,3,273,3.0,0,1,0,0,0,0,1,0.00,0.33,0.33,0.00,0.33,Matches
+Simon Poulsen,dk DEN,DF,27,7,3,187,2.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Tommaso Berni,it ITA,GK,29,3,2,235,2.6,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nicola Pozzi,it ITA,FW,26,6,1,134,1.5,1,0,0,1,2,1,0,0.67,0.00,0.67,0.00,0.00,Matches
+Matías Rodríguez,ar ARG,"DF,MF",26,1,1,90,1.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Anđelko Savić,ch SUI,FW,19,1,0,14,0.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Juan Antonio,ar ARG,"FW,MF",24,2,0,10,0.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Andrea Consigli,it ITA,GK,25,35,35,"3,130",34.8,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Germán Denis,ar ARG,FW,30,36,35,"3,121",34.7,15,4,10,5,5,3,1,0.43,0.12,0.55,0.29,0.40,Matches
+Giacomo Bonaventura,it ITA,MF,22,35,31,"2,633",29.3,7,2,7,0,0,7,0,0.24,0.07,0.31,0.24,0.31,Matches
+Guglielmo Stendardo,it ITA,DF,31,32,29,"2,634",29.3,2,1,2,0,0,9,0,0.07,0.03,0.10,0.07,0.10,Matches
+Luca Cigarini,it ITA,MF,26,27,26,"2,263",25.1,2,5,2,0,0,8,1,0.08,0.20,0.28,0.08,0.28,Matches
+Maximiliano Moralez,ar ARG,"FW,MF",25,29,26,"2,004",22.3,1,1,1,0,0,3,0,0.04,0.04,0.09,0.04,0.09,Matches
+Cristian Raimondi,it ITA,"DF,MF",31,26,22,"2,039",22.7,1,3,1,0,0,7,1,0.04,0.13,0.18,0.04,0.18,Matches
+Davide Biondini,it ITA,MF,29,24,20,"1,771",19.7,0,1,0,0,0,8,0,0.00,0.05,0.05,0.00,0.05,Matches
+Stefano Lucchini,it ITA,DF,31,21,19,"1,695",18.8,0,1,0,0,0,8,1,0.00,0.05,0.05,0.00,0.05,Matches
+Carlos Carmona,cl CHI,MF,25,20,19,"1,533",17.0,2,2,2,0,0,9,1,0.12,0.12,0.23,0.12,0.23,Matches
+Davide Brivio,it ITA,DF,24,20,15,"1,445",16.1,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches
+Thomas Manfredini,it ITA,DF,32,15,15,"1,245",13.8,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches
+Federico Peluso,it ITA,DF,28,13,13,"1,064",11.8,1,1,1,0,0,8,2,0.08,0.08,0.17,0.08,0.17,Matches
+Cristiano Del Grosso,it ITA,DF,29,13,13,"1,055",11.7,1,1,1,0,0,2,0,0.09,0.09,0.17,0.09,0.17,Matches
+Ezequiel Schelotto,it ITA,"DF,MF",23,16,12,"1,093",12.1,0,1,0,0,0,0,0,0.00,0.08,0.08,0.00,0.08,Matches
+Luigi Giorgi,it ITA,MF,25,15,11,964,10.7,2,0,2,0,0,4,1,0.19,0.00,0.19,0.19,0.19,Matches
+Michele Canini,it ITA,DF,27,12,10,966,10.7,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Gianpaolo Bellini,it ITA,DF,32,11,10,839,9.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Riccardo Cazzola,it ITA,MF,26,22,9,944,10.5,0,1,0,0,0,8,0,0.00,0.10,0.10,0.00,0.10,Matches
+Ivan Radovanović,rs SRB,"DF,MF",23,16,8,653,7.3,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Giuseppe De Luca,it ITA,FW,20,18,7,750,8.3,2,0,2,0,0,5,0,0.24,0.00,0.24,0.24,0.24,Matches
+Michele Ferri,it ITA,DF,31,9,7,557,6.2,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Marko Livaja,hr CRO,"FW,MF",18,11,6,611,6.8,2,1,2,0,0,5,0,0.29,0.15,0.44,0.29,0.44,Matches
+Lionel Scaloni,ar ARG,"DF,MF",34,7,6,530,5.9,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Facundo Parra,ar ARG,FW,27,14,3,428,4.8,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches
+Franco Brienza,it ITA,"FW,MF",33,6,3,315,3.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ciro Polito,it ITA,GK,33,4,3,290,3.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+James Troisi,au AUS,"FW,MF",24,6,2,199,2.2,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Carlos Matheu,ar ARG,DF,27,4,1,178,2.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Matteo Contini,it ITA,DF,32,3,1,163,1.8,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches
+Daniele Capelli,it ITA,DF,26,1,1,72,0.8,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Matteo Scozzarella,it ITA,MF,24,3,0,83,0.9,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Guido Marilungo,it ITA,FW,22,2,0,44,0.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Antonio Palma,it ITA,MF,18,1,0,20,0.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Igor Budan,hr CRO,FW,32,2,0,17,0.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jean-François Gillet,be BEL,GK,33,37,37,"3,330",37.0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Alessandro Gazzi,it ITA,MF,29,34,33,"2,869",31.9,2,0,2,0,0,8,0,0.06,0.00,0.06,0.06,0.06,Matches
+Alessio Cerci,it ITA,"FW,MF",25,35,32,"2,728",30.3,8,9,7,1,1,4,0,0.26,0.30,0.56,0.23,0.53,Matches
+Kamil Glik,pl POL,"DF,MF",24,32,31,"2,691",29.9,1,1,1,0,0,7,2,0.03,0.03,0.07,0.03,0.07,Matches
+Matteo Darmian,it ITA,"DF,MF",22,30,30,"2,689",29.9,0,2,0,0,0,10,1,0.00,0.07,0.07,0.00,0.07,Matches
+Rolando Bianchi,it ITA,FW,29,32,25,"2,308",25.6,11,2,8,3,4,5,0,0.43,0.08,0.51,0.31,0.39,Matches
+Salvatore Masiello,it ITA,"DF,MF",30,24,22,"2,014",22.4,0,1,0,0,0,6,0,0.00,0.04,0.04,0.00,0.04,Matches
+Angelo Ogbonna,it ITA,DF,24,22,22,"1,963",21.8,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches
+Danilo D'Ambrosio,it ITA,DF,23,27,22,"1,958",21.8,2,3,2,0,0,4,0,0.09,0.14,0.23,0.09,0.23,Matches
+Mario Santana,ar ARG,MF,30,27,21,"1,753",19.5,4,2,4,0,0,1,0,0.21,0.10,0.31,0.21,0.31,Matches
+Giuseppe Vives,it ITA,MF,32,25,21,"1,753",19.5,0,0,0,0,0,9,0,0.00,0.00,0.00,0.00,0.00,Matches
+Guillermo Daniel Rodríguez,uy URU,DF,28,22,20,"1,874",20.8,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Matteo Brighi,it ITA,MF,31,23,18,"1,678",18.6,2,1,2,0,0,2,0,0.11,0.05,0.16,0.11,0.16,Matches
+Riccardo Meggiorini,it ITA,FW,26,31,18,"1,597",17.7,3,2,3,0,0,5,0,0.17,0.11,0.28,0.17,0.28,Matches
+Migjen Basha,al ALB,MF,25,20,17,"1,601",17.8,1,0,1,0,0,4,0,0.06,0.00,0.06,0.06,0.06,Matches
+Paulo Vitor Barreto,br BRA,FW,27,16,13,"1,055",11.7,3,2,3,0,0,0,0,0.26,0.17,0.43,0.26,0.43,Matches
+Alen Stevanović,rs SRB,"FW,MF",21,15,8,679,7.5,2,1,2,0,0,1,0,0.27,0.13,0.40,0.27,0.40,Matches
+Valerio Di Cesare,it ITA,DF,29,9,7,673,7.5,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Alessandro Sgrigna,it ITA,"FW,MF",32,11,7,559,6.2,1,2,1,0,0,1,0,0.16,0.32,0.48,0.16,0.48,Matches
+Gianluca Sansone,it ITA,FW,25,14,5,517,5.7,1,0,1,0,0,2,1,0.17,0.00,0.17,0.17,0.17,Matches
+Valter Birsa,si SVN,"FW,MF",25,17,4,594,6.6,2,4,2,0,0,2,0,0.30,0.61,0.91,0.30,0.91,Matches
+Pablo Cáceres,uy URU,DF,27,2,2,180,2.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jonathas,br BRA,FW,23,11,1,212,2.4,2,0,1,1,1,0,0,0.85,0.00,0.85,0.42,0.42,Matches
+Ferdinando Coppola,it ITA,GK,34,1,1,90,1.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Marko Bakić,me MNE,MF,18,1,1,68,0.8,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Simone Verdi,it ITA,"FW,MF",20,4,0,55,0.6,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Abou Diop,sn SEN,FW,18,2,0,21,0.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Sergiu Suciu,ro ROU,MF,22,1,0,11,0.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Dolly Menga,ao ANG,FW,19,1,0,1,0.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Sébastien Frey,fr FRA,GK,32,36,36,"3,240",36.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Andreas Granqvist,se SWE,"DF,MF",27,35,32,"2,952",32.8,1,1,1,0,0,8,0,0.03,0.03,0.06,0.03,0.06,Matches
+Juraj Kucka,sk SVK,MF,25,33,32,"2,817",31.3,3,3,3,0,0,7,1,0.10,0.10,0.19,0.10,0.19,Matches
+Luca Antonelli,it ITA,"DF,MF",25,33,32,"2,812",31.2,1,5,1,0,0,7,0,0.03,0.16,0.19,0.03,0.19,Matches
+Emiliano Moretti,it ITA,DF,31,33,26,"2,368",26.3,0,0,0,0,0,8,1,0.00,0.00,0.00,0.00,0.00,Matches
+Marco Borriello,it ITA,FW,30,28,26,"2,340",26.0,12,1,10,2,3,10,0,0.46,0.04,0.50,0.38,0.42,Matches
+Andrea Bertolacci,it ITA,MF,21,29,24,"2,017",22.4,4,5,4,0,0,6,1,0.18,0.22,0.40,0.18,0.40,Matches
+Ciro Immobile,it ITA,FW,22,33,21,"2,026",22.5,5,3,5,0,0,5,0,0.22,0.13,0.36,0.22,0.36,Matches
+Boško Janković,rs SRB,MF,28,19,16,"1,426",15.8,4,1,4,0,0,3,0,0.25,0.06,0.32,0.25,0.32,Matches
+Dániel Tőzsér,hu HUN,MF,27,22,16,"1,334",14.8,0,1,0,0,0,1,0,0.00,0.07,0.07,0.00,0.07,Matches
+Mario Sampirisi,it ITA,"DF,MF",19,16,16,"1,292",14.4,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+Daniele Portanova,it ITA,DF,33,15,15,"1,350",15.0,1,0,1,0,0,3,0,0.07,0.00,0.07,0.07,0.07,Matches
+Juan Manuel Vargas,pe PER,"DF,MF",28,20,15,"1,339",14.9,0,2,0,0,0,4,0,0.00,0.13,0.13,0.00,0.13,Matches
+Matuzalém,br BRA,MF,32,15,15,"1,277",14.2,1,2,1,0,0,7,0,0.07,0.14,0.21,0.07,0.21,Matches
+Michele Canini,it ITA,DF,27,14,14,"1,260",14.0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Thomas Manfredini,it ITA,DF,32,14,14,"1,235",13.7,0,1,0,0,0,4,0,0.00,0.07,0.07,0.00,0.07,Matches
+Cesare Bovo,it ITA,DF,29,13,12,950,10.6,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches
+Eros Pisano,it ITA,DF,25,10,9,668,7.4,1,0,1,0,0,4,0,0.13,0.00,0.13,0.13,0.13,Matches
+Felipe Seymour,cl CHI,MF,25,15,8,766,8.5,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00,Matches
+Marco Rossi,it ITA,MF,34,14,7,698,7.8,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Marco Rigoni,it ITA,MF,32,13,7,694,7.7,1,2,1,0,0,0,0,0.13,0.26,0.39,0.13,0.39,Matches
+Antonio Floro Flores,it ITA,FW,29,11,6,553,6.1,2,0,2,0,0,1,0,0.33,0.00,0.33,0.33,0.33,Matches
+Cristóbal Jorquera,cl CHI,"FW,MF",23,13,4,493,5.5,0,3,0,0,1,3,0,0.00,0.55,0.55,0.00,0.55,Matches
+Alexander Merkel,kz KAZ,MF,20,6,4,299,3.3,1,0,1,0,0,1,0,0.30,0.00,0.30,0.30,0.30,Matches
+Mattia Cassani,it ITA,DF,28,5,3,178,2.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Rubén Olivera,uy URU,MF,29,5,2,166,1.8,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Anselmo de Moraes,br BRA,MF,23,5,1,133,1.5,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Antonio Donnarumma,it ITA,GK,22,1,1,90,1.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Giandomenico Mesto,it ITA,"DF,MF",30,1,1,90,1.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Alexandros Tzorvas,gr GRE,GK,29,1,1,90,1.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Luka Krajnc,si SVN,DF,17,3,1,69,0.8,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Linus Hallenius,se SWE,FW,23,1,1,45,0.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Damiano Ferronetti,it ITA,"DF,MF",27,4,0,133,1.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Giammario Piscitella,it ITA,FW,19,6,0,128,1.4,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Said Ahmed Said,it ITA,FW,19,5,0,126,1.4,1,1,1,0,0,0,0,0.71,0.71,1.43,0.71,1.43,Matches
+Enis Nadarević,ba BIH,MF,25,3,0,99,1.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Leonardo Melazzi,uy URU,FW,21,2,0,30,0.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Steve von Bergen,ch SUI,DF,29,35,33,"2,972",33.0,1,0,1,0,0,6,1,0.03,0.00,0.03,0.03,0.03,Matches
+Édgar Barreto,py PAR,MF,28,30,30,"2,655",29.5,0,0,0,0,0,9,1,0.00,0.00,0.00,0.00,0.00,Matches
+Santiago García,ar ARG,DF,24,32,30,"2,632",29.2,1,0,1,0,0,8,0,0.03,0.00,0.03,0.03,0.03,Matches
+Michel Morganella,ch SUI,"DF,MF",23,30,30,"2,567",28.5,0,3,0,0,0,6,1,0.00,0.11,0.11,0.00,0.11,Matches
+Ezequiel Muñoz,ar ARG,DF,21,32,29,"2,629",29.2,0,1,0,0,0,9,0,0.00,0.03,0.03,0.00,0.03,Matches
+Josip Iličić,si SVN,"FW,MF",24,31,29,"2,394",26.6,10,2,10,0,0,7,0,0.38,0.08,0.45,0.38,0.45,Matches
+Jasmin Kurtić,si SVN,MF,23,31,26,"2,319",25.8,0,1,0,0,0,4,0,0.00,0.04,0.04,0.00,0.04,Matches
+Massimo Donati,it ITA,MF,31,28,26,"2,166",24.1,0,1,0,0,0,8,0,0.00,0.04,0.04,0.00,0.04,Matches
+Egidio Arévalo,uy URU,MF,30,27,22,"2,018",22.4,2,2,2,0,0,1,0,0.09,0.09,0.18,0.09,0.18,Matches
+Fabrizio Miccoli,it ITA,FW,33,29,22,"1,895",21.1,8,7,6,2,2,7,1,0.38,0.33,0.71,0.28,0.62,Matches
+Samir Ujkani,xk KVX,GK,24,19,19,"1,666",18.5,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches
+Salvatore Aronica,it ITA,DF,34,16,16,"1,342",14.9,0,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00,Matches
+Stefano Sorrentino,it ITA,GK,33,15,15,"1,350",15.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Franco Brienza,it ITA,"FW,MF",33,17,13,995,11.1,1,5,1,0,0,1,1,0.09,0.45,0.54,0.09,0.54,Matches
+Paulo Dybala,ar ARG,"FW,MF",18,27,11,"1,261",14.0,3,0,3,0,0,2,0,0.21,0.00,0.21,0.21,0.21,Matches
+Andrea Dossena,it ITA,"DF,MF",30,11,10,799,8.9,0,2,0,0,0,4,0,0.00,0.23,0.23,0.00,0.23,Matches
+Eros Pisano,it ITA,DF,25,11,7,590,6.6,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Abel Hernández,uy URU,FW,21,14,6,670,7.4,1,1,1,0,0,1,0,0.13,0.13,0.27,0.13,0.27,Matches
+Luigi Giorgi,it ITA,MF,25,10,6,484,5.4,2,0,2,0,0,1,0,0.37,0.00,0.37,0.37,0.37,Matches
+Mauro Boselli,ar ARG,FW,27,8,5,426,4.7,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Diego Fabbrini,it ITA,"FW,MF",22,8,5,423,4.7,1,0,1,0,0,0,0,0.21,0.00,0.21,0.21,0.21,Matches
+Francesco Benussi,it ITA,GK,30,5,4,404,4.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Andrea Mantovani,it ITA,DF,28,6,4,387,4.3,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nélson Marcos,pt POR,DF,29,8,3,466,5.2,1,0,1,0,0,0,0,0.19,0.00,0.19,0.19,0.19,Matches
+Nicolás Bertolo,ar ARG,MF,26,7,3,384,4.3,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Alejandro Faurlín,ar ARG,MF,25,6,3,307,3.4,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mauro Formica,ar ARG,MF,24,8,3,278,3.1,1,1,1,0,0,1,0,0.32,0.32,0.65,0.32,0.65,Matches
+Mauro Cetto,ar ARG,DF,30,3,2,204,2.3,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Anselmo de Moraes,br BRA,MF,23,5,2,192,2.1,1,0,1,0,0,1,0,0.47,0.00,0.47,0.47,0.47,Matches
+Giulio Sanseverino,it ITA,MF,18,3,2,170,1.9,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nicolas Viola,it ITA,MF,22,6,1,145,1.6,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Igor Budan,hr CRO,FW,32,6,1,87,1.0,1,0,1,0,0,1,0,1.03,0.00,1.03,1.03,1.03,Matches
+Giulio Migliaccio,it ITA,"DF,MF",31,1,0,62,0.7,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Eran Zahavi,il ISR,"FW,MF",25,3,0,44,0.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Cephas Malele,ch SUI,FW,18,3,0,36,0.4,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Carlos Labrín,cl CHI,DF,21,1,0,19,0.2,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches
+Gianluca Pegolo,it ITA,GK,31,38,38,"3,420",38.0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Felipe dal Belo,br BRA,DF,28,34,34,"2,948",32.8,0,0,0,0,0,10,2,0.00,0.00,0.00,0.00,0.00,Matches
+Simone Vergassola,it ITA,MF,36,30,29,"2,550",28.3,2,2,2,0,0,8,0,0.07,0.07,0.14,0.07,0.14,Matches
+Alessandro Rosina,it ITA,MF,28,31,29,"2,229",24.8,5,4,2,3,4,4,0,0.20,0.16,0.36,0.08,0.24,Matches
+Ângelo,br BRA,"DF,MF",31,28,27,"2,189",24.3,1,3,1,0,0,4,0,0.04,0.12,0.16,0.04,0.16,Matches
+Matteo Rubin,it ITA,"DF,MF",25,25,23,"2,072",23.0,0,4,0,0,0,4,0,0.00,0.17,0.17,0.00,0.17,Matches
+Massimo Paci,it ITA,DF,34,23,20,"1,830",20.3,2,0,2,0,0,7,1,0.10,0.00,0.10,0.10,0.10,Matches
+Luís Neto,pt POR,DF,24,20,20,"1,786",19.8,1,0,1,0,0,7,1,0.05,0.00,0.05,0.05,0.05,Matches
+Emanuele Calaiò,it ITA,FW,30,18,18,"1,612",17.9,4,2,4,0,2,4,1,0.22,0.11,0.33,0.22,0.33,Matches
+Francesco Bolzoni,it ITA,MF,23,25,16,"1,553",17.3,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Francesco Della Rocca,it ITA,MF,24,17,16,"1,445",16.1,0,1,0,0,0,5,0,0.00,0.06,0.06,0.00,0.06,Matches
+Innocent Emeghara,ch SUI,FW,23,17,16,"1,371",15.2,7,0,7,0,0,3,0,0.46,0.00,0.46,0.46,0.46,Matches
+Cristiano Del Grosso,it ITA,DF,29,16,15,"1,343",14.9,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Alessio Sestu,it ITA,MF,28,28,13,"1,376",15.3,1,4,1,0,0,3,0,0.07,0.26,0.33,0.07,0.33,Matches
+Francesco Valiani,it ITA,MF,31,22,13,"1,205",13.4,2,4,2,0,0,0,0,0.15,0.30,0.45,0.15,0.45,Matches
+Matteo Contini,it ITA,DF,32,10,10,893,9.9,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+Jorge Teixeira,pt POR,DF,25,9,9,810,9.0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Christian Terlizzi,it ITA,DF,32,9,9,778,8.6,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches
+Adrián Calello,ar ARG,MF,25,9,8,734,8.2,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Claudio Terzi,it ITA,DF,28,8,8,720,8.0,1,0,1,0,0,3,0,0.12,0.00,0.12,0.12,0.12,Matches
+Gaetano D'Agostino,it ITA,MF,30,8,7,508,5.6,0,1,0,0,0,1,0,0.00,0.18,0.18,0.00,0.18,Matches
+Zé Eduardo,br BRA,FW,24,8,6,469,5.2,1,0,0,1,1,3,0,0.19,0.00,0.19,0.00,0.00,Matches
+Nicola Belmonte,it ITA,DF,25,7,6,467,5.2,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Reginaldo,br BRA,FW,29,19,5,657,7.3,3,1,3,0,0,2,0,0.41,0.14,0.55,0.41,0.55,Matches
+Erjon Bogdani,al ALB,FW,35,18,4,511,5.7,2,0,2,0,0,2,0,0.35,0.00,0.35,0.35,0.35,Matches
+Ribair Rodríguez,uy URU,MF,24,6,4,362,4.0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Salvador Agra,pt POR,"FW,MF",20,8,3,309,3.4,0,2,0,0,0,0,0,0.00,0.58,0.58,0.00,0.58,Matches
+Daniele Mannini,it ITA,MF,28,7,3,280,3.1,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Paolo Dellafiore,it ITA,DF,27,2,2,180,2.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Valerio Verre,it ITA,"FW,MF",18,8,2,160,1.8,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Roberto Vitiello,it ITA,DF,29,2,2,154,1.7,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Michele Paolucci,it ITA,"FW,MF",26,10,1,247,2.7,2,0,2,0,0,2,0,0.73,0.00,0.73,0.73,0.73,Matches
+Fabrizio Grillo,it ITA,"DF,MF",25,1,1,90,1.0,1,0,1,0,0,0,0,1.00,0.00,1.00,1.00,1.00,Matches
+Marcelo Larrondo,cl CHI,FW,23,3,1,71,0.8,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Nicola Pozzi,it ITA,FW,26,3,0,77,0.9,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Manuel Coppola,it ITA,MF,30,2,0,75,0.8,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Matías Campos,cl CHI,"DF,MF",23,1,0,16,0.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Mattia Perin,it ITA,GK,19,29,28,"2,520",28.0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches
+Emmanuel Cascione,it ITA,MF,28,30,23,"2,197",24.4,2,0,2,0,0,5,0,0.08,0.00,0.08,0.08,0.08,Matches
+Marco Capuano,it ITA,DF,20,26,23,"2,123",23.6,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches
+Antonio Balzano,it ITA,DF,26,26,23,"2,079",23.1,0,0,0,0,0,8,0,0.00,0.00,0.00,0.00,0.00,Matches
+Antonio Bocchetti,it ITA,DF,32,24,23,"2,045",22.7,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches
+Damiano Zanon,it ITA,DF,29,23,21,"1,874",20.8,0,2,0,0,0,8,1,0.00,0.10,0.10,0.00,0.10,Matches
+Uroš Ćosić,rs SRB,DF,19,20,20,"1,642",18.2,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Francesco Modesto,it ITA,"DF,MF",30,19,19,"1,607",17.9,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+Birkir Bjarnason,is ISL,MF,24,24,17,"1,619",18.0,2,0,2,0,0,4,0,0.11,0.00,0.11,0.11,0.11,Matches
+Vladimír Weiss,sk SVK,"FW,MF",22,22,16,"1,445",16.1,4,4,3,1,1,7,2,0.25,0.25,0.50,0.19,0.44,Matches
+Eugênio Rômulo Togni,br BRA,MF,29,17,16,"1,393",15.5,2,1,2,0,0,6,0,0.13,0.06,0.19,0.13,0.19,Matches
+Matti Lund Nielsen,dk DEN,MF,24,19,15,"1,321",14.7,0,2,0,0,0,1,0,0.00,0.14,0.14,0.00,0.14,Matches
+Gianluca Caprari,it ITA,"FW,MF",19,24,14,"1,280",14.2,2,0,2,0,0,1,0,0.14,0.00,0.14,0.14,0.14,Matches
+Ante Vukušić,hr CRO,"DF,FW",21,19,13,"1,101",12.2,1,0,1,0,1,1,0,0.08,0.00,0.08,0.08,0.08,Matches
+Juan Quintero,co COL,MF,19,17,12,"1,020",11.3,1,2,1,0,0,3,0,0.09,0.18,0.26,0.09,0.26,Matches
+Mervan Çelik,se SWE,MF,22,23,11,"1,201",13.3,4,0,4,0,0,4,0,0.30,0.00,0.30,0.30,0.30,Matches
+Elvis Abbruscato,it ITA,FW,31,25,11,"1,148",12.8,2,0,2,0,0,1,0,0.16,0.00,0.16,0.16,0.16,Matches
+Christian Terlizzi,it ITA,DF,32,11,11,897,10.0,2,0,2,0,0,2,1,0.20,0.00,0.20,0.20,0.20,Matches
+Manuele Blasi,it ITA,MF,31,12,11,817,9.1,0,0,0,0,0,8,0,0.00,0.00,0.00,0.00,0.00,Matches
+Giuseppe Rizzo,it ITA,MF,21,11,10,910,10.1,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches
+Ivan Pelizzoli,it ITA,GK,31,11,10,900,10.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Ferdinando Sforzini,it ITA,FW,27,10,9,803,8.9,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Giuseppe Colucci,it ITA,MF,31,11,9,782,8.7,0,2,0,0,0,3,0,0.00,0.23,0.23,0.00,0.23,Matches
+Giuseppe Sculli,it ITA,"FW,MF",31,10,8,667,7.4,1,1,1,0,0,5,0,0.13,0.13,0.27,0.13,0.27,Matches
+Jonathas,br BRA,FW,23,12,8,619,6.9,1,0,1,0,0,3,0,0.15,0.00,0.15,0.15,0.15,Matches
+Gaetano D'Agostino,it ITA,MF,30,7,7,469,5.2,2,1,1,1,1,2,0,0.38,0.19,0.58,0.19,0.38,Matches
+Luciano Zauri,it ITA,DF,34,8,6,603,6.7,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Simone Romagnoli,it ITA,DF,22,7,6,543,6.0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches
+Nicolás Bianchi Arce,ar ARG,DF,25,10,5,539,6.0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Federico Di Francesco,it ITA,"FW,MF",18,7,5,471,5.2,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+Per Krøldrup,dk DEN,DF,33,5,5,410,4.6,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Milton Caraglio,ar ARG,FW,23,4,3,262,2.9,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Giovanbattista Catalano,it ITA,MF,18,2,0,27,0.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Marco Vittiglio,,,,1,0,23,0.3,1,0,1,0,0,0,0,3.91,0.00,3.91,3.91,3.91,
+Marco Vittiglio,it ITA,,18,1,0,22,0.2,1,,1,0,,0,0,4.09,,,4.09,,Matches
+Danilo Soddimo,it ITA,MF,24,1,0,18,0.2,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+Andrea Mancini,it ITA,FW,16,1,0,16,0.2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+Marco Iannascoli,it ITA,MF,17,1,0,10,0.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+David Mbodj Mbaye,sn SEN,DF,17,1,0,7,0.1,0,,0,0,,0,0,0.00,,,0.00,,Matches

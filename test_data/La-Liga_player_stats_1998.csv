@@ -1,0 +1,589 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+Ruud Hesp,nl NED,GK,32,37,37,"3,330",37.0,0,,0,0,,1,0,0.00,,,0.00,,Matches
+Rivaldo,br BRA,"FW,MF",26,37,37,"3,270",36.3,24,,18,6,,7,0,0.66,,,0.50,,Matches
+Phillip Cocu,nl NED,"DF,FW",27,36,36,"3,125",34.7,12,,12,0,,9,1,0.35,,,0.35,,Matches
+Patrick Kluivert,nl NED,FW,22,35,35,"2,885",32.1,14,,14,0,,8,0,0.44,,,0.44,,Matches
+Sergi Barjuán,es ESP,DF,26,35,34,"3,024",33.6,0,,0,0,,5,0,0.00,,,0.00,,Matches
+Luís Figo,pt POR,"FW,MF",25,34,34,"2,992",33.2,7,,7,0,,14,3,0.21,,,0.21,,Matches
+Abelardo Fernández,es ESP,DF,28,30,28,"2,472",27.5,1,,1,0,,4,0,0.04,,,0.04,,Matches
+Luis Enrique,es ESP,"FW,MF",28,26,26,"2,168",24.1,11,,11,0,,5,0,0.46,,,0.46,,Matches
+Michael Reiziger,nl NED,DF,25,26,24,"2,097",23.3,0,,0,0,,7,0,0.00,,,0.00,,Matches
+Pep Guardiola,es ESP,MF,27,22,21,"1,834",20.4,1,,1,0,,4,2,0.05,,,0.05,,Matches
+Frank de Boer,nl NED,DF,28,19,19,"1,594",17.7,2,,2,0,,4,4,0.11,,,0.11,,Matches
+Mauricio Pellegrino,ar ARG,DF,26,23,16,"1,443",16.0,0,,0,0,,5,2,0.00,,,0.00,,Matches
+Xavi,es ESP,MF,18,17,16,"1,436",16.0,1,,1,0,,2,0,0.06,,,0.06,,Matches
+Ronald de Boer,nl NED,"FW,MF",28,13,11,"1,011",11.2,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Albert Celades,es ESP,MF,22,16,11,961,10.7,2,,2,0,,1,0,0.19,,,0.19,,Matches
+Giovanni,br BRA,"FW,MF",26,14,9,824,9.2,2,,1,1,,2,0,0.22,,,0.11,,Matches
+Boudewijn Zenden,nl NED,"DF,FW",21,25,8,897,10.0,0,,0,0,,1,0,0.00,,,0.00,,Matches
+Samuel Okunowo,ng NGA,DF,19,14,8,844,9.4,0,,0,0,,1,0,0.00,,,0.00,,Matches
+Sonny Anderson,br BRA,FW,27,24,4,586,6.5,6,,6,0,,0,0,0.92,,,0.92,,Matches
+Roger,es ESP,MF,21,6,1,183,2.0,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Òscar,es ESP,"FW,MF",25,6,1,149,1.7,2,,2,0,,1,0,1.21,,,1.21,,Matches
+Miguel Ángel Nadal,es ESP,"DF,MF",32,2,1,101,1.1,0,,0,0,,1,2,0.00,,,0.00,,Matches
+Francesc Arnau,es ESP,GK,23,1,1,90,1.0,0,,,,,0,0,0.00,,,,,Matches
+Dragan Ćirić,rs SRB,MF,23,5,0,72,0.8,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Winston Bogarde,nl NED,DF,27,1,0,45,0.5,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Emmanuel Amunike,ng NGA,"FW,MF",27,0,0,,0.0,0,,,,,0,0,,,,,,
+Vítor Baía,pt POR,GK,28,0,0,,0.0,0,,,,,0,0,,,,,,Matches
+Carles Busquets,es ESP,GK,31,0,0,,0.0,0,,,,,0,0,,,,,,
+Ibán Cuadrado,es ESP,DF,19,0,0,,0.0,0,,,,,0,0,,,,,,Matches
+Luis García,es ESP,MF,20,0,0,,0.0,0,,,,,0,0,,,,,,
+Mario Rosas,es ESP,MF,18,0,0,,0.0,0,,,,,0,0,,,,,,Matches
+Raúl,es ESP,FW,21,37,37,"3,219",35.8,25,,21,4,,1,0,0.70,,,0.59,,Matches
+Clarence Seedorf,nl NED,MF,22,37,35,"3,099",34.4,3,,3,0,,7,0,0.09,,,0.09,,Matches
+Roberto Carlos,br BRA,DF,25,35,35,"3,065",34.1,5,,5,0,,8,3,0.15,,,0.15,,Matches
+Bodo Illgner,de GER,GK,31,34,34,"3,060",34.0,0,,0,0,,2,0,0.00,,,0.00,,Matches
+Christian Panucci,it ITA,DF,25,31,31,"2,726",30.3,0,,0,0,,13,2,0.00,,,0.00,,Matches
+Fernando Hierro,es ESP,"DF,MF",30,28,28,"2,281",25.3,6,,2,4,,14,0,0.24,,,0.08,,Matches
+Manolo Sanchís,es ESP,DF,33,33,27,"2,532",28.1,0,,0,0,,11,2,0.00,,,0.00,,Matches
+Predrag Mijatović,rs SRB,"FW,MF",29,28,26,"2,056",22.8,5,,5,0,,3,0,0.22,,,0.22,,Matches
+Fernando Morientes,es ESP,FW,22,33,24,"2,212",24.6,19,,19,0,,3,0,0.77,,,0.77,,Matches
+Sávio,br BRA,MF,24,34,24,"2,207",24.5,6,,5,1,,0,0,0.24,,,0.20,,Matches
+Iván Campo,es ESP,"DF,MF",24,27,24,"2,122",23.6,1,,1,0,,7,0,0.04,,,0.04,,Matches
+Fernando Redondo,ar ARG,MF,29,23,23,"2,039",22.7,0,,0,0,,7,0,0.00,,,0.00,,Matches
+Robert Jarni,hr CRO,"DF,FW",29,27,19,"1,656",18.4,1,,1,0,,3,0,0.05,,,0.05,,Matches
+Christian Karembeu,fr FRA,"DF,MF",27,20,12,"1,111",12.3,0,,0,0,,2,0,0.00,,,0.00,,Matches
+Guti,es ESP,"FW,MF",21,28,11,"1,339",14.9,1,,1,0,,6,0,0.07,,,0.07,,Matches
+Davor Šuker,hr CRO,FW,30,19,9,920,10.2,4,,4,0,,3,0,0.39,,,0.39,,Matches
+Fernando Sanz,es ESP,DF,24,9,6,613,6.8,0,,0,0,,2,0,0.00,,,0.00,,Matches
+Jaime,es ESP,MF,25,14,5,518,5.8,0,,0,0,,5,0,0.00,,,0.00,,Matches
+Pedro Contreras,es ESP,GK,26,4,4,360,4.0,0,,,,,0,0,0.00,,,,,Matches
+Aitor Karanka,es ESP,DF,24,4,3,231,2.6,0,,0,0,,1,0,0.00,,,0.00,,Matches
+Roberto Rojas,es ESP,DF,23,5,1,117,1.3,0,,0,0,,1,0,0.00,,,0.00,,Matches
+Samuel Eto'o,cm CMR,FW,17,1,0,23,0.3,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Tote,es ESP,"FW,MF",19,1,0,13,0.1,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Manuel Tena,es ESP,DF,20,1,0,10,0.1,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Perica Ognjenović,rs SRB,FW,21,1,0,1,0.0,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Eduardo Almansa,,,23,0,0,,0.0,0,,,,,0,0,,,,,,Matches
+José Amavisca,es ESP,"FW,MF",27,0,0,,0.0,0,,,,,0,0,,,,,,Matches
+Álvaro Benito,es ESP,MF,21,0,0,,0.0,0,,,,,0,0,,,,,,
+Albano Bizzarri,ar ARG,GK,20,0,0,,0.0,0,,,,,0,0,,,,,,
+Iker Casillas,es ESP,GK,17,0,0,,0.0,0,,,,,0,0,,,,,,Matches
+Javier Dorado,es ESP,DF,21,0,0,,0.0,0,,,,,0,0,,,,,,
+Rodrigo Fabri,br BRA,MF,22,0,0,,0.0,0,,,,,0,0,,,,,,
+Federico Magallanes,uy URU,"FW,MF",21,0,0,,0.0,0,,,,,0,0,,,,,,Matches
+Edgar Pacheco,pt POR,FW,20,0,0,,0.0,0,,,,,0,0,,,,,,
+Rubio,es ESP,DF,22,0,0,,0.0,0,,,,,0,0,,,,,,
+Javier Olaizola,es ESP,DF,28,36,36,"3,229",35.9,0,,0,0,,9,0,0.00,,,0.00,,Matches
+Carlos Roa,ar ARG,GK,28,35,35,"3,150",35.0,0,,0,0,,1,0,0.00,,,0.00,,Matches
+Jovan Stanković,rs SRB,MF,27,36,35,"2,996",33.3,4,,3,1,,4,0,0.12,,,0.09,,Matches
+Dani García,es ESP,FW,23,36,34,"3,049",33.9,12,,11,1,,1,0,0.35,,,0.32,,Matches
+Marcelino Elena,es ESP,DF,26,34,34,"3,046",33.8,3,,3,0,,12,2,0.09,,,0.09,,Matches
+Miquel Soler,es ESP,"DF,MF",33,34,33,"2,998",33.3,0,,0,0,,5,0,0.00,,,0.00,,Matches
+Gustavo Siviero,ar ARG,DF,28,33,33,"2,970",33.0,0,,0,0,,6,0,0.00,,,0.00,,Matches
+Vicente Engonga,es ESP,MF,32,33,33,"2,905",32.3,0,,0,0,,9,2,0.00,,,0.00,,Matches
+Lauren,cm CMR,DF,21,33,33,"2,885",32.1,1,,1,0,,10,0,0.03,,,0.03,,Matches
+Leonardo Biagini,ar ARG,FW,21,31,25,"2,041",22.7,11,,7,4,,2,0,0.49,,,0.31,,Matches
+Ariel Ibagaza,ar ARG,MF,21,26,23,"1,743",19.4,5,,5,0,,4,0,0.26,,,0.26,,Matches
+Paco Soler,es ESP,MF,28,29,17,"1,666",18.5,1,,1,0,,6,0,0.05,,,0.05,,Matches
+Ariel López,ar ARG,FW,24,23,12,"1,085",12.1,3,,3,0,,4,0,0.25,,,0.25,,Matches
+Veljko Paunović,es ESP,"FW,MF",20,24,8,"1,068",11.9,5,,5,0,,2,0,0.42,,,0.42,,Matches
+Lluís Carreras,es ESP,DF,25,18,7,661,7.3,0,,0,0,,2,0,0.00,,,0.00,,Matches
+Fernando Niño,es ESP,DF,23,16,6,606,6.7,0,,0,0,,3,0,0.00,,,0.00,,Matches
+Óscar Arpón,es ESP,MF,23,13,4,484,5.4,0,,0,0,,0,0,0.00,,,0.00,,Matches
+César Gálvez,,GK,25,3,3,270,3.0,0,,,,,0,0,0.00,,,,,Matches
+Mauricio Pineda,ar ARG,DF,23,4,3,217,2.4,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Carlos Domínguez,es ESP,FW,21,13,2,383,4.3,0,,0,0,,2,0,0.00,,,0.00,,Matches
+Albert Luque,es ESP,"FW,MF",20,5,2,152,1.7,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Leo Franco,ar ARG,GK,21,0,0,,0.0,0,,,,,0,0,,,,,,
+Francisco Rufete,es ESP,MF,21,0,0,,0.0,0,,,,,0,0,,,,,,
+Paco Sanz,es ESP,MF,25,0,0,,0.0,0,,,,,0,0,,,,,,
+Santiago Cañizares,es ESP,GK,28,38,38,"3,420",38.0,0,,0,0,,2,0,0.00,,,0.00,,Matches
+Amedeo Carboni,it ITA,DF,33,36,36,"3,183",35.4,0,,0,0,,11,0,0.00,,,0.00,,Matches
+Gaizka Mendieta,es ESP,MF,24,37,36,"3,164",35.2,7,,6,1,,6,0,0.20,,,0.17,,Matches
+Miroslav Đukić,rs SRB,DF,32,32,32,"2,835",31.5,1,,1,0,,4,0,0.03,,,0.03,,Matches
+Miguel Ángel Angulo,es ESP,"FW,MF",21,36,31,"2,813",31.3,8,,8,0,,9,0,0.26,,,0.26,,Matches
+Claudio López,ar ARG,FW,24,32,31,"2,761",30.7,21,,18,3,,12,0,0.68,,,0.59,,Matches
+Javier Farinós,es ESP,MF,20,32,28,"2,435",27.1,2,,2,0,,7,0,0.07,,,0.07,,Matches
+Luis Milla,es ESP,MF,32,31,28,"2,297",25.5,1,,1,0,,6,2,0.04,,,0.04,,Matches
+Alain Roche,fr FRA,DF,30,29,25,"2,248",25.0,0,,0,0,,6,6,0.00,,,0.00,,Matches
+Joachim Björklund,se SWE,DF,27,24,23,"2,039",22.7,1,,1,0,,3,0,0.04,,,0.04,,Matches
+Jocelyn Angloma,fr FRA,"DF,MF",32,29,22,"2,101",23.3,1,,1,0,,6,2,0.04,,,0.04,,Matches
+Stefan Schwarz,se SWE,"DF,MF",29,30,22,"1,920",21.3,4,,4,0,,5,2,0.19,,,0.19,,Matches
+Adrian Ilie,ro ROU,"FW,MF",24,24,22,"1,798",20.0,10,,9,1,,7,0,0.50,,,0.45,,Matches
+Juanfran,es ESP,DF,22,21,15,"1,248",13.9,0,,0,0,,5,0,0.00,,,0.00,,Matches
+Goran Vlaović,hr CRO,FW,25,20,11,847,9.4,2,,2,0,,1,0,0.21,,,0.21,,Matches
+Miguel Ángel Soria,es ESP,DF,24,10,6,553,6.1,0,,0,0,,4,2,0.00,,,0.00,,Matches
+Gabriel Popescu,ro ROU,MF,24,25,5,702,7.8,1,,1,0,,1,0,0.13,,,0.13,,Matches
+Cristiano Lucarelli,it ITA,FW,22,12,4,528,5.9,1,,1,0,,3,0,0.17,,,0.17,,Matches
+Francisco José Camarasa,es ESP,DF,30,3,2,197,2.2,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Óscar Téllez,es ESP,DF,23,1,1,90,1.0,0,,,,,0,0,0.00,,,,,Matches
+Dennis Șerban,ro ROU,MF,22,10,0,169,1.9,1,,1,0,,1,0,0.53,,,0.53,,Matches
+Rubén Navarro,es ESP,FW,20,4,0,43,0.5,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Jandro,es ESP,MF,19,2,0,33,0.4,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Jorge Bartual,es ESP,GK,26,0,0,,0.0,0,,,,,0,0,,,,,,Matches
+Sabin Ilie,ro ROU,FW,23,0,0,,0.0,0,,,,,0,0,,,,,,Matches
+Guillermo Morigi,ar ARG,MF,24,0,0,,0.0,0,,,,,0,0,,,,,,Matches
+Javi Navarro,es ESP,"DF,MF",24,0,0,,0.0,0,,,,,0,0,,,,,,
+Nicolás Olivera,uy URU,"FW,MF",20,0,0,,0.0,0,,,,,0,0,,,,,,
+Sergio Porras,,,22,0,0,,0.0,0,,,,,0,0,,,,,,
+Curro Torres,es ESP,DF,21,0,0,,0.0,0,,,,,0,0,,,,,,
+Richard Dutruel,fr FRA,GK,25,37,37,"3,330",37.0,0,,0,0,,2,0,0.00,,,0.00,,Matches
+Fernando Cáceres,ar ARG,DF,29,36,36,"3,201",35.6,1,,1,0,,10,0,0.03,,,0.03,,Matches
+Míchel Salgado,es ESP,DF,22,35,35,"3,037",33.7,3,,3,0,,11,3,0.09,,,0.09,,Matches
+Claude Makélélé,fr FRA,MF,25,36,34,"2,964",32.9,2,,2,0,,4,0,0.06,,,0.06,,Matches
+Valeri Karpin,ru RUS,MF,29,34,34,"2,937",32.6,8,,8,0,,13,0,0.25,,,0.25,,Matches
+Goran Đorović,rs SRB,DF,26,31,31,"2,766",30.7,1,,1,0,,13,0,0.03,,,0.03,,Matches
+Mazinho,br BRA,"DF,MF",32,31,31,"2,720",30.2,4,,4,0,,6,0,0.13,,,0.13,,Matches
+Aleksandr Mostovoi,ru RUS,MF,29,33,30,"2,566",28.5,6,,6,0,,10,0,0.21,,,0.21,,Matches
+Lyuboslav Penev,bg BUL,FW,31,32,30,"2,393",26.6,14,,9,5,,9,1,0.53,,,0.34,,Matches
+Juan Sánchez,es ESP,FW,26,36,24,"2,225",24.7,13,,12,1,,3,0,0.53,,,0.49,,Matches
+Haim Revivo,il ISR,"FW,MF",26,26,20,"1,659",18.4,9,,9,0,,6,2,0.49,,,0.49,,Matches
+Tomás Hervás,es ESP,MF,27,35,17,"1,895",21.1,3,,3,0,,4,0,0.14,,,0.14,,Matches
+Óscar Vales,es ESP,DF,23,24,16,"1,475",16.4,0,,0,0,,3,0,0.00,,,0.00,,Matches
+Rafael Berges,es ESP,DF,27,18,16,"1,335",14.8,1,,1,0,,5,0,0.07,,,0.07,,Matches
+Josema López,es ESP,DF,29,18,14,"1,052",11.7,0,,0,0,,2,0,0.00,,,0.00,,Matches
+Dan Eggen,no NOR,DF,28,16,7,864,9.6,0,,0,0,,3,0,0.00,,,0.00,,Matches
+Vladimir Gudelj,ba BIH,FW,31,14,3,469,5.2,2,,2,0,,0,0,0.38,,,0.38,,Matches
+Jordi Cruyff,nl NED,"FW,MF",24,8,1,236,2.6,1,,1,0,,0,0,0.38,,,0.38,,Matches
+Bruno Caires,pt POR,MF,22,11,1,167,1.9,0,,0,0,,3,0,0.00,,,0.00,,Matches
+José Manuel Pinto,es ESP,GK,22,1,1,90,1.0,0,,,,,0,0,0.00,,,,,Matches
+Jorge Cadete,pt POR,FW,29,7,0,115,1.3,1,,1,0,,1,0,0.78,,,0.78,,Matches
+Fran Caínzos,es ESP,DF,25,2,0,12,0.1,0,,0,0,,1,0,0.00,,,0.00,,Matches
+Adriano Teixeira,br BRA,DF,25,1,0,2,0.0,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Jacques Songo'o,cm CMR,GK,34,37,37,"3,330",37.0,0,,0,0,,4,0,0.00,,,0.00,,Matches
+Mauro Silva,br BRA,MF,30,36,36,"3,147",35.0,0,,0,0,,6,0,0.00,,,0.00,,Matches
+Stéphane Ziani,fr FRA,MF,26,36,33,"2,699",30.0,6,,6,0,,3,0,0.20,,,0.20,,Matches
+Enrique Romero,es ESP,DF,27,34,32,"2,848",31.6,0,,0,0,,5,0,0.00,,,0.00,,Matches
+Fran,es ESP,MF,29,32,32,"2,826",31.4,6,,6,0,,7,2,0.19,,,0.19,,Matches
+Flávio Conceição,br BRA,MF,24,31,31,"2,550",28.3,1,,1,0,,6,2,0.04,,,0.04,,Matches
+José Oscar Flores,ar ARG,FW,27,36,30,"2,632",29.2,14,,14,0,,1,0,0.48,,,0.48,,Matches
+Noureddine Naybet,ma MAR,DF,28,30,29,"2,517",28.0,1,,1,0,,10,0,0.04,,,0.04,,Matches
+Djalminha,br BRA,"FW,MF",27,30,26,"2,027",22.5,8,,4,4,,6,0,0.36,,,0.18,,Matches
+Gabriel Schürrer,ar ARG,DF,26,28,25,"2,098",23.3,3,,3,0,,8,3,0.13,,,0.13,,Matches
+Armando Álvarez,es ESP,DF,28,27,22,"2,020",22.4,0,,0,0,,9,0,0.00,,,0.00,,Matches
+Pauleta,pt POR,FW,25,28,22,"1,912",21.2,10,,10,0,,3,0,0.47,,,0.47,,Matches
+Donato,es ESP,"DF,MF",35,31,17,"1,784",19.8,1,,1,0,,7,0,0.05,,,0.05,,Matches
+Mustapha Hadji,ma MAR,MF,26,21,11,"1,024",11.4,2,,2,0,,2,0,0.18,,,0.18,,Matches
+Manuel Pablo,es ESP,DF,22,14,10,949,10.5,0,,0,0,,1,0,0.00,,,0.00,,Matches
+Luis Miguel Ramis,es ESP,DF,28,10,9,826,9.2,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Lionel Scaloni,ar ARG,"DF,MF",20,21,8,948,10.5,0,,0,0,,6,0,0.00,,,0.00,,Matches
+Jérôme Bonnissel,fr FRA,"DF,FW",25,16,5,687,7.6,0,,0,0,,4,1,0.00,,,0.00,,Matches
+Salaheddine Bassir,ma MAR,FW,25,15,1,323,3.6,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Peter Rufai,ng NGA,GK,34,1,1,90,1.0,0,,,,,0,0,0.00,,,,,Matches
+José Ramón González Pérez,es ESP,MF,30,1,1,57,0.6,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Javier Manjarín,es ESP,FW,28,10,0,173,1.9,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Javi López,es ESP,DF,24,1,0,11,0.1,0,,0,0,,1,0,0.00,,,0.00,,Matches
+Sergio Daniel Martínez,uy URU,FW,29,0,0,,0.0,0,,,,,0,0,,,,,,
+Hélder,pt POR,DF,27,0,0,,0.0,0,,,,,0,0,,,,,,
+Petr Kouba,cz CZE,GK,28,0,0,,0.0,0,,,,,0,0,,,,,,
+José Manuel Aira,es ESP,DF,22,0,0,,0.0,0,,,,,0,0,,,,,,Matches
+Nuno,pt POR,GK,24,0,0,,0.0,0,,,,,0,0,,,,,,
+Dmitri Radchenko,ru RUS,FW,27,0,0,,0.0,0,,,,,0,0,,,,,,
+Gerardo Seoane,ch SUI,MF,19,0,0,,0.0,0,,,,,0,0,,,,,,
+Toni Jiménez,es ESP,GK,27,38,38,"3,420",38.0,0,,0,0,,4,0,0.00,,,0.00,,Matches
+Iván Helguera,es ESP,"DF,MF",23,37,37,"3,297",36.6,2,,2,0,,6,0,0.05,,,0.05,,Matches
+Cristóbal Parralo,es ESP,DF,30,35,35,"3,126",34.7,1,,1,0,,8,2,0.03,,,0.03,,Matches
+Nando,es ESP,DF,30,34,31,"2,879",32.0,1,,1,0,,8,2,0.03,,,0.03,,Matches
+Joan Capdevila,es ESP,DF,20,29,27,"2,477",27.5,4,,4,0,,4,0,0.15,,,0.15,,Matches
+Mauricio Pochettino,ar ARG,DF,26,26,26,"2,178",24.2,0,,0,0,,8,3,0.00,,,0.00,,Matches
+Arteaga,es ESP,MF,29,28,25,"2,058",22.9,2,,2,0,,5,1,0.09,,,0.09,,Matches
+Sergio,es ESP,MF,21,34,23,"2,289",25.4,0,,0,0,,6,0,0.00,,,0.00,,Matches
+Martín Posse,ar ARG,FW,22,32,23,"1,986",22.1,4,,4,0,,5,0,0.18,,,0.18,,Matches
+Miguel Ángel Benítez,py PAR,FW,28,32,23,"1,899",21.1,7,,7,0,,8,0,0.33,,,0.33,,Matches
+Constantin Gâlcă,ro ROU,MF,26,27,21,"1,928",21.4,4,,0,4,,7,0,0.19,,,0.00,,Matches
+Nan Ribera,es ESP,MF,23,26,16,"1,446",16.1,2,,2,0,,5,0,0.12,,,0.12,,Matches
+Raúl Tamudo,es ESP,FW,20,19,15,"1,315",14.6,8,,8,0,,5,0,0.55,,,0.55,,Matches
+Quique Martín,es ESP,"FW,MF",25,20,13,"1,205",13.4,2,,2,0,,3,0,0.15,,,0.15,,Matches
+Pacheta,es ESP,MF,30,21,13,"1,154",12.8,0,,0,0,,3,1,0.00,,,0.00,,Matches
+Juan Esnáider,ar ARG,FW,25,13,13,"1,073",11.9,2,,1,1,,3,0,0.17,,,0.08,,Matches
+Germán Villa,mx MEX,MF,25,12,12,"1,006",11.2,0,,0,0,,4,2,0.00,,,0.00,,Matches
+Darío Silva,uy URU,FW,25,15,11,984,10.9,3,,3,0,,3,0,0.27,,,0.27,,Matches
+Enrique de Lucas,es ESP,"FW,MF",19,20,5,710,7.9,5,,4,1,,3,0,0.63,,,0.51,,Matches
+Branko Brnović,rs SRB,MF,30,11,5,417,4.6,0,,0,0,,3,0,0.00,,,0.00,,Matches
+Federico Domínguez,ar ARG,DF,21,5,5,385,4.3,0,,0,0,,0,1,0.00,,,0.00,,Matches
+Manolo Serrano,es ESP,MF,25,4,1,104,1.2,1,,1,0,,1,0,0.87,,,0.87,,Matches
+Goran Milošević,rs SRB,DF,26,1,0,56,0.6,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Manolo Pérez,es ESP,MF,21,1,0,45,0.5,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Alberto Lopo,es ESP,DF,18,2,0,10,0.1,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Nenad Pralija,hr CRO,MF,27,1,0,7,0.1,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Alfredo Argensó,es ESP,GK,23,0,0,,0.0,0,,,,,0,0,,,,,,Matches
+Salvador Balbuena,,GK,20,0,0,,0.0,0,,,,,0,0,,,,,,
+Rafa Bueno,,,20,0,0,,0.0,0,,,,,0,0,,,,,,
+Luis Cembranos,es ESP,MF,26,0,0,,0.0,0,,,,,0,0,,,,,,
+Jordi Cosme Torrecilla,,,23,0,0,,0.0,0,,,,,0,0,,,,,,
+Samuel Eto'o,cm CMR,FW,17,0,0,,0.0,0,,,,,0,0,,,,,,Matches
+Alex Fernández,es ESP,MF,24,0,0,,0.0,0,,,,,0,0,,,,,,
+Javi García Almendro,es ESP,FW,28,0,0,,0.0,0,,,,,0,0,,,,,,
+Daniel Gavito,,,19,0,0,,0.0,0,,,,,0,0,,,,,,
+Jean-Philippe Javary,fr FRA,MF,20,0,0,,0.0,0,,,,,0,0,,,,,,
+Joaquín Macanás,es ESP,DF,26,0,0,,0.0,0,,,,,0,0,,,,,,
+José Mari,es ESP,MF,23,0,0,,0.0,0,,,,,0,0,,,,,,
+Ángel Morales,es ESP,MF,23,0,0,,0.0,0,,,,,0,0,,,,,,Matches
+Xavier Morón,,,19,0,0,,0.0,0,,,,,0,0,,,,,,
+Pedro Nieto,,,22,0,0,,0.0,0,,,,,0,0,,,,,,
+Florin Răducioiu,ro ROU,FW,28,0,0,,0.0,0,,,,,0,0,,,,,,
+Diego Ribera,es ESP,FW,21,0,0,,0.0,0,,,,,0,0,,,,,,
+David Sánchez,es ESP,DF,19,0,0,,0.0,0,,,,,0,0,,,,,,
+Antonio Soldevilla,es ESP,DF,19,0,0,,0.0,0,,,,,0,0,,,,,,
+Imanol Etxeberria,es ESP,GK,25,37,37,"3,328",37.0,0,,0,0,,4,1,0.00,,,0.00,,Matches
+Bittor Alkiza,es ESP,MF,27,37,32,"2,814",31.3,0,,0,0,,5,0,0.00,,,0.00,,Matches
+Joseba Etxeberria,es ESP,"FW,MF",20,36,29,"2,662",29.6,5,,5,0,,3,0,0.17,,,0.17,,Matches
+Julen Guerrero,es ESP,"FW,MF",24,36,28,"2,534",28.2,9,,9,0,,4,0,0.32,,,0.32,,Matches
+Santiago Ezquerro,es ESP,FW,21,38,28,"2,490",27.7,7,,7,0,,2,0,0.25,,,0.25,,Matches
+Ismael Urzaiz,es ESP,FW,26,36,28,"2,479",27.5,16,,14,2,,5,0,0.58,,,0.51,,Matches
+Patxi Ferreira,es ESP,DF,31,26,26,"2,189",24.3,2,,2,0,,4,2,0.08,,,0.08,,Matches
+Josu Urrutia,es ESP,MF,30,26,26,"2,062",22.9,1,,1,0,,10,2,0.04,,,0.04,,Matches
+Carlos García,es ESP,"DF,MF",27,28,25,"2,199",24.4,1,,1,0,,10,0,0.04,,,0.04,,Matches
+Aitor Larrazábal,es ESP,DF,27,29,24,"2,071",23.0,2,,0,2,,4,0,0.09,,,0.00,,Matches
+Jesús María Lacruz,es ESP,DF,20,29,23,"2,021",22.5,1,,1,0,,4,0,0.04,,,0.04,,Matches
+Felipe Guréndez,es ESP,MF,22,27,23,"2,004",22.3,1,,1,0,,8,3,0.04,,,0.04,,Matches
+Roberto Ríos,es ESP,DF,26,19,15,"1,366",15.2,1,,1,0,,6,3,0.07,,,0.07,,Matches
+Rafael Alkorta,es ESP,DF,29,15,15,"1,313",14.6,1,,1,0,,5,0,0.07,,,0.07,,Matches
+Iñigo Larrainzar,es ESP,DF,27,14,14,"1,225",13.6,0,,0,0,,5,0,0.00,,,0.00,,Matches
+Javi González,es ESP,MF,24,30,12,"1,422",15.8,1,,1,0,,3,0,0.06,,,0.06,,Matches
+Andoni Imaz,es ESP,MF,26,13,11,892,9.9,1,,1,0,,2,2,0.10,,,0.10,,Matches
+Txomin Nagore,es ESP,MF,23,9,7,639,7.1,0,,0,0,,2,0,0.00,,,0.00,,Matches
+José Mari García,es ESP,MF,27,10,7,609,6.8,2,,1,1,,3,0,0.30,,,0.15,,Matches
+Mikel Lasa,es ESP,DF,26,15,4,590,6.6,0,,0,0,,5,2,0.00,,,0.00,,Matches
+Francisco Yeste,es ESP,MF,18,8,2,285,3.2,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Jorge Pérez Sáenz,es ESP,MF,22,9,1,193,2.1,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Juan José Valencia,es ESP,GK,26,1,1,90,1.0,0,,,,,0,0,0.00,,,,,Matches
+César Caneda,es ESP,DF,20,1,0,8,0.1,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Bolo,es ESP,FW,24,1,0,3,0.0,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Paco,es ESP,DF,28,37,37,"3,284",36.5,0,,0,0,,4,2,0.00,,,0.00,,Matches
+Xavier Aguado,es ESP,DF,30,36,36,"3,195",35.5,4,,4,0,,8,0,0.11,,,0.11,,Matches
+Savo Milošević,rs SRB,FW,24,35,35,"3,116",34.6,17,,17,0,,5,2,0.49,,,0.49,,Matches
+Pablo Díaz Stalla,es ESP,DF,26,32,29,"2,739",30.4,1,,1,0,,6,2,0.03,,,0.03,,Matches
+Roberto Acuña,py PAR,MF,26,31,29,"2,565",28.5,2,,2,0,,7,0,0.07,,,0.07,,Matches
+Kily González,ar ARG,"FW,MF",23,29,29,"2,541",28.2,6,,6,0,,12,2,0.21,,,0.21,,Matches
+Marcos Vales,es ESP,MF,23,34,29,"2,491",27.7,6,,6,0,,7,0,0.22,,,0.22,,Matches
+Juanmi,es ESP,GK,27,25,25,"2,250",25.0,0,,0,0,,1,0,0.00,,,0.00,,Matches
+Gary Sundgren,se SWE,"DF,MF",30,25,25,"2,076",23.1,0,,0,0,,7,0,0.00,,,0.00,,Matches
+Santiago Aragón,es ESP,MF,30,32,22,"1,952",21.7,3,,2,1,,6,0,0.14,,,0.09,,Matches
+José Ignacio,es ESP,MF,24,31,22,"1,906",21.2,1,,1,0,,10,1,0.05,,,0.05,,Matches
+Gustavo López,ar ARG,"FW,MF",25,32,18,"1,840",20.4,5,,5,0,,4,0,0.24,,,0.24,,Matches
+Jesús Solana,es ESP,DF,33,19,15,"1,304",14.5,0,,0,0,,3,1,0.00,,,0.00,,Matches
+Paulo Jamelli,br BRA,FW,24,23,15,"1,266",14.1,4,,4,0,,8,0,0.28,,,0.28,,Matches
+Ander Garitano,es ESP,MF,29,19,15,"1,237",13.7,1,,1,0,,6,0,0.07,,,0.07,,Matches
+Faryd Mondragón,co COL,GK,27,13,13,"1,170",13.0,0,,,,,0,0,0.00,,,,,Matches
+Luis Cuartero,es ESP,DF,22,13,11,960,10.7,0,,0,0,,2,0,0.00,,,0.00,,Matches
+Yordi,es ESP,FW,22,16,9,808,9.0,5,,5,0,,3,0,0.56,,,0.56,,Matches
+Nordin Wooter,nl NED,"FW,MF",21,18,2,493,5.5,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Luis Helguera,es ESP,MF,22,3,2,165,1.8,0,,0,0,,1,0,0.00,,,0.00,,Matches
+Javi Peña,es ESP,FW,24,2,0,38,0.4,0,,0,0,,1,0,0.00,,,0.00,,Matches
+Alberto Belsué,es ESP,DF,30,1,0,26,0.3,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Vladislav Radimov,ru RUS,"DF,MF",22,4,0,25,0.3,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Gilmar,br BRA,DF,27,1,0,10,0.1,0,,0,0,,0,0,0.00,,,0.00,,Matches
+José Ángel Ferrera,es ESP,,23,0,0,,0.0,0,,,,,0,0,,,,,,Matches
+Otto Konrad,at AUT,GK,33,0,0,,0.0,0,,,,,0,0,,,,,,
+César Láinez,es ESP,GK,21,0,0,,0.0,0,,,,,0,0,,,,,,Matches
+Pier,es ESP,FW,26,0,0,,0.0,0,,,,,0,0,,,,,,Matches
+Alberto,es ESP,GK,29,37,37,"3,330",37.0,0,,0,0,,3,0,0.00,,,0.00,,Matches
+Agustín Aranzábal,es ESP,DF,25,37,37,"3,330",37.0,1,,0,1,,4,0,0.03,,,0.00,,Matches
+Ricardo Sá Pinto,pt POR,FW,25,36,35,"3,033",33.7,4,,4,0,,10,2,0.12,,,0.12,,Matches
+José Antonio Pikabea,es ESP,DF,27,35,32,"2,866",31.8,1,,1,0,,9,0,0.03,,,0.03,,Matches
+Juan Andrés Gómez,ar ARG,DF,27,32,32,"2,693",29.9,0,,0,0,,11,3,0.00,,,0.00,,Matches
+Darko Kovačević,rs SRB,FW,24,30,30,"2,625",29.2,16,,15,1,,6,1,0.55,,,0.51,,Matches
+Loren,es ESP,"DF,FW",31,27,27,"2,388",26.5,0,,0,0,,8,3,0.00,,,0.00,,Matches
+Javier de Pedro,es ESP,MF,24,27,25,"2,069",23.0,6,,3,3,,6,0,0.26,,,0.13,,Matches
+López Rekarte,es ESP,DF,22,26,23,"1,994",22.2,0,,0,0,,6,2,0.00,,,0.00,,Matches
+Iñigo Idiakez,es ESP,"FW,MF",24,29,19,"1,727",19.2,7,,7,0,,4,0,0.36,,,0.36,,Matches
+Óscar de Paula,es ESP,FW,23,29,19,"1,713",19.0,6,,6,0,,2,0,0.32,,,0.32,,Matches
+Mikel Antía,es ESP,DF,25,22,15,"1,350",15.0,0,,0,0,,6,1,0.00,,,0.00,,Matches
+Igor Jauregi,es ESP,"DF,MF",24,22,15,"1,323",14.7,2,,2,0,,3,2,0.14,,,0.14,,Matches
+Miguel Fuentes,es ESP,DF,33,18,14,"1,267",14.1,0,,0,0,,4,1,0.00,,,0.00,,Matches
+Dietmar Kühbauer,at AUT,MF,27,16,14,"1,155",12.8,0,,0,0,,8,0,0.00,,,0.00,,Matches
+Mikel Aranburu,es ESP,MF,19,14,13,"1,050",11.7,1,,1,0,,3,0,0.09,,,0.09,,Matches
+Javi Gracia,es ESP,MF,28,15,9,850,9.4,1,,1,0,,4,0,0.11,,,0.11,,Matches
+Mutiu Adepoju,ng NGA,MF,27,17,8,787,8.7,0,,0,0,,4,2,0.00,,,0.00,,Matches
+José Félix Guerrero,es ESP,MF,22,15,7,731,8.1,0,,0,0,,4,0,0.00,,,0.00,,Matches
+Igor Cvitanović,hr CRO,FW,27,12,3,405,4.5,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Aitor Aldeondo,es ESP,FW,23,19,2,490,5.4,1,,1,0,,1,0,0.18,,,0.18,,Matches
+Roberto Olabe,es ESP,GK,30,1,1,90,1.0,0,,,,,0,0,0.00,,,,,Matches
+José Barkero,es ESP,MF,19,1,1,70,0.8,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Íker Álvarez,es ESP,GK,21,0,0,,0.0,0,,,,,0,0,,,,,,
+Sergio Francisco,es ESP,FW,19,0,0,,0.0,0,,,,,0,0,,,,,,
+Luis Pérez Pascual,es ESP,FW,27,0,0,,0.0,0,,,,,0,0,,,,,,Matches
+Iker Sarriegi,es ESP,DF,24,0,0,,0.0,0,,,,,0,0,,,,,,
+Finidi George,ng NGA,"FW,MF",27,36,36,"3,174",35.3,11,,7,4,,7,0,0.31,,,0.20,,Matches
+Luis Fernández,es ESP,DF,25,36,33,"3,030",33.7,0,,0,0,,7,0,0.00,,,0.00,,Matches
+Toni Prats,es ESP,GK,26,32,31,"2,835",31.5,0,,0,0,,5,0,0.00,,,0.00,,Matches
+Denílson,br BRA,MF,20,35,29,"2,632",29.2,2,,2,0,,6,0,0.07,,,0.07,,Matches
+Juan Merino,es ESP,DF,27,27,25,"2,102",23.4,0,,0,0,,9,0,0.00,,,0.00,,Matches
+Tomás Olías,es ESP,DF,29,26,24,"2,193",24.4,0,,0,0,,9,0,0.00,,,0.00,,Matches
+Ito,es ESP,MF,23,34,24,"2,112",23.5,1,,1,0,,8,2,0.04,,,0.04,,Matches
+Fernando,es ESP,MF,26,29,23,"1,818",20.2,2,,2,0,,11,2,0.10,,,0.10,,Matches
+Oli,es ESP,FW,26,32,20,"2,028",22.5,10,,10,0,,7,0,0.44,,,0.44,,Matches
+Benjamín Zarandona,gq EQG,MF,22,28,20,"1,769",19.7,1,,1,0,,2,1,0.05,,,0.05,,Matches
+Jorge Otero,es ESP,DF,29,20,19,"1,538",17.1,0,,0,0,,3,0,0.00,,,0.00,,Matches
+Iulian Filipescu,ro ROU,DF,24,18,18,"1,558",17.3,3,,3,0,,7,2,0.17,,,0.17,,Matches
+Alexis Trujillo,es ESP,MF,33,27,17,"1,707",19.0,3,,2,1,,6,0,0.16,,,0.11,,Matches
+Celso Ayala,py PAR,DF,27,17,16,"1,434",15.9,1,,1,0,,3,0,0.06,,,0.06,,Matches
+Roberto Solozábal,es ESP,DF,28,15,15,"1,350",15.0,0,,0,0,,2,0,0.00,,,0.00,,Matches
+Juan Antonio Ureña,es ESP,DF,30,16,13,"1,058",11.8,0,,0,0,,5,2,0.00,,,0.00,,Matches
+Juan José Cañas,es ESP,MF,26,24,12,"1,231",13.7,1,,1,0,,2,0,0.07,,,0.07,,Matches
+Pepe Gálvez,es ESP,FW,23,19,9,832,9.2,5,,5,0,,0,0,0.54,,,0.54,,Matches
+Alfonso Pérez,es ESP,FW,25,11,8,717,8.0,2,,2,0,,3,0,0.25,,,0.25,,Matches
+Jaime,es ESP,DF,26,12,8,657,7.3,0,,0,0,,2,2,0.00,,,0.00,,Matches
+Joaquín Valerio,es ESP,GK,25,8,7,585,6.5,0,,0,0,,1,0,0.00,,,0.00,,Matches
+Iván Pérez Muñoz,es ESP,FW,22,10,4,511,5.7,1,,1,0,,0,0,0.18,,,0.18,,Matches
+Ángel Cuéllar,es ESP,"FW,MF",25,3,3,207,2.3,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Rafael Jaques,br BRA,FW,22,4,2,210,2.3,1,,1,0,,1,0,0.43,,,0.43,,Matches
+Juan Jesús Cabrera Rubio,es ESP,MF,21,3,2,126,1.4,1,,1,0,,0,0,0.71,,,0.71,,Matches
+Luis Márquez Martín,es ESP,MF,26,3,0,56,0.6,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Andrei Frascarelli,br BRA,DF,25,0,0,,0.0,0,,,,,0,0,,,,,,
+Manuel Robles,,,22,0,0,,0.0,0,,,,,0,0,,,,,,Matches
+Risto Vidaković,yu YUG,DF,29,0,0,,0.0,0,,,,,0,0,,,,,,
+César Sánchez,es ESP,GK,26,38,38,"3,420",38.0,0,,0,0,,2,0,0.00,,,0.00,,Matches
+Alberto Marcos Rey,es ESP,DF,24,36,36,"3,186",35.4,0,,0,0,,8,1,0.00,,,0.00,,Matches
+Chema,es ESP,MF,22,37,35,"2,787",31.0,0,,0,0,,4,0,0.00,,,0.00,,Matches
+Juan Manuel Peña,bo BOL,DF,25,33,33,"2,944",32.7,0,,0,0,,8,2,0.00,,,0.00,,Matches
+Alen Peternac,hr CRO,FW,26,35,32,"2,699",30.0,13,,9,4,,5,0,0.43,,,0.30,,Matches
+Javier Torres Gómez,es ESP,DF,28,32,31,"2,763",30.7,2,,2,0,,5,2,0.07,,,0.07,,Matches
+Juan Vizcaíno,es ESP,MF,31,31,31,"2,595",28.8,1,,1,0,,5,1,0.03,,,0.03,,Matches
+José García Calvo,es ESP,DF,23,28,27,"2,372",26.4,0,,0,0,,6,1,0.00,,,0.00,,Matches
+Víctor,es ESP,FW,24,28,24,"2,219",24.7,4,,3,1,,5,1,0.16,,,0.12,,Matches
+José Luis Santamaría,es ESP,DF,25,25,24,"2,051",22.8,0,,0,0,,5,0,0.00,,,0.00,,Matches
+Jesús Turiel,es ESP,MF,24,29,20,"1,836",20.4,4,,4,0,,4,1,0.20,,,0.20,,Matches
+José Luis Caminero,es ESP,"FW,MF",30,27,19,"1,548",17.2,4,,4,0,,3,1,0.23,,,0.23,,Matches
+Júlio César,br BRA,DF,19,19,17,"1,612",17.9,2,,2,0,,7,0,0.11,,,0.11,,Matches
+John Harold Lozano,co COL,MF,26,19,16,"1,462",16.2,1,,1,0,,5,2,0.06,,,0.06,,Matches
+Eusebio Sacristán,es ESP,MF,34,21,11,"1,094",12.2,0,,0,0,,3,0,0.00,,,0.00,,Matches
+Diego Klimowicz,ar ARG,FW,24,21,9,832,9.2,1,,1,0,,4,0,0.11,,,0.11,,Matches
+Alberto López Moreno,es ESP,FW,31,31,4,897,10.0,4,,4,0,,2,0,0.40,,,0.40,,Matches
+Dragan Isailović,rs SRB,FW,22,6,4,265,2.9,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Orlando Gutiérrez,es ESP,"DF,MF",22,3,3,270,3.0,0,,0,0,,2,0,0.00,,,0.00,,Matches
+Daniel Dutuel,fr FRA,MF,30,10,2,291,3.2,0,,0,0,,1,0,0.00,,,0.00,,Matches
+Emilio José López Gallego,es ESP,,20,14,2,256,2.8,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Álvaro Gutiérrez,uy URU,MF,30,1,0,11,0.1,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Juan Carlos,es ESP,DF,33,0,0,,0.0,0,,,,,0,0,,,,,,
+Gustavo Díaz,uy URU,DF,23,0,0,,0.0,0,,,,,0,0,,,,,,
+Agustín Elduayen,es ESP,GK,33,0,0,,0.0,0,,,,,0,0,,,,,,Matches
+Gabriel Heinze,ar ARG,DF,20,0,0,,0.0,0,,,,,0,0,,,,,,
+Raúl Ibáñez Galdón,es ESP,FW,25,0,0,,0.0,0,,,,,0,0,,,,,,
+Ricardo,es ESP,GK,26,0,0,,0.0,0,,,,,0,0,,,,,,
+José Molina,es ESP,GK,27,38,38,"3,380",37.6,0,,0,0,,2,0,0.00,,,0.00,,Matches
+Michele Serena,it ITA,DF,28,35,35,"2,988",33.2,3,,3,0,,8,0,0.09,,,0.09,,Matches
+José Chamot,ar ARG,DF,29,33,33,"2,918",32.4,1,,1,0,,10,1,0.03,,,0.03,,Matches
+José Mari,es ESP,FW,19,37,33,"2,799",31.1,9,,9,0,,4,0,0.29,,,0.29,,Matches
+Santi,es ESP,DF,24,30,29,"2,596",28.8,0,,0,0,,13,4,0.00,,,0.00,,Matches
+Carlos Aguilera,es ESP,DF,29,28,27,"2,333",25.9,1,,1,0,,7,0,0.04,,,0.04,,Matches
+Juan Carlos Valerón,es ESP,MF,23,30,26,"2,308",25.6,3,,3,0,,7,0,0.12,,,0.12,,Matches
+Juninho Paulista,br BRA,MF,25,32,20,"2,150",23.9,8,,5,3,,3,2,0.33,,,0.21,,Matches
+Roberto Fresnedoso,es ESP,MF,25,30,19,"1,836",20.4,4,,4,0,,6,0,0.20,,,0.20,,Matches
+Óscar Alcides Mena,ar ARG,MF,27,29,19,"1,753",19.5,2,,2,0,,10,0,0.10,,,0.10,,Matches
+Jordi Lardín,es ESP,"FW,MF",25,21,18,"1,445",16.1,2,,1,1,,4,0,0.12,,,0.06,,Matches
+Antonio Muñoz Gómez,es ESP,DF,30,22,16,"1,477",16.4,0,,0,0,,5,0,0.00,,,0.00,,Matches
+Stefano Torrisi,it ITA,DF,27,17,15,"1,352",15.0,1,,1,0,,4,4,0.07,,,0.07,,Matches
+Vladimir Jugović,rs SRB,MF,28,17,15,"1,262",14.0,3,,1,2,,5,2,0.21,,,0.07,,Matches
+Fernando Correa,uy URU,FW,24,20,11,988,11.0,8,,7,1,,2,0,0.73,,,0.64,,Matches
+Radek Bejbl,cz CZE,"DF,MF",25,14,10,872,9.7,0,,0,0,,2,0,0.00,,,0.00,,Matches
+Kiko,es ESP,FW,26,11,10,869,9.7,4,,4,0,,2,0,0.41,,,0.41,,Matches
+Zoran Njeguš,rs SRB,"DF,MF",25,15,8,701,7.8,1,,1,0,,2,0,0.13,,,0.13,,Matches
+Giorgio Venturin,it ITA,MF,30,11,7,610,6.8,0,,0,0,,1,0,0.00,,,0.00,,Matches
+Rubén Baraja,es ESP,MF,23,8,7,576,6.4,1,,1,0,,4,4,0.16,,,0.16,,Matches
+Juan González,uy URU,FW,26,8,7,525,5.8,2,,2,0,,1,0,0.34,,,0.34,,Matches
+Santiago Solari,ar ARG,MF,21,12,5,526,5.8,1,,1,0,,2,0,0.17,,,0.17,,Matches
+Delfí Geli,es ESP,DF,29,6,4,415,4.6,0,,0,0,,2,0,0.00,,,0.00,,Matches
+Ramón,es ESP,DF,23,6,3,276,3.1,0,,0,0,,2,0,0.00,,,0.00,,Matches
+Quinton Fortune,za RSA,MF,21,2,2,180,2.0,0,,0,0,,1,0,0.00,,,0.00,,Matches
+Loren del Pino,es ESP,MF,24,2,1,97,1.1,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Luis Tevenet,es ESP,FW,24,5,0,120,1.3,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Pedro Luis Jaro,es ESP,GK,35,2,0,40,0.4,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Gaspar,es ESP,DF,19,2,0,36,0.4,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Cristian Díaz,ar ARG,DF,22,0,0,,0.0,0,,,,,0,0,,,,,,Matches
+Juan Manuel López,es ESP,DF,28,0,0,,0.0,0,,,,,0,0,,,,,,
+Manuel Rubio,,,23,0,0,,0.0,0,,,,,0,0,,,,,,Matches
+Esteban,es ESP,GK,23,37,37,"3,330",37.0,0,,0,0,,2,0,0.00,,,0.00,,Matches
+Julio Dely Valdés,pa PAN,FW,31,37,36,"3,074",34.2,19,,16,3,,3,0,0.56,,,0.47,,Matches
+Paulo Bento,pt POR,MF,29,34,34,"2,998",33.3,0,,0,0,,14,2,0.00,,,0.00,,Matches
+Manel,es ESP,MF,27,34,34,"2,941",32.7,1,,1,0,,9,6,0.03,,,0.03,,Matches
+Viktor Onopko,ru RUS,DF,28,33,33,"2,920",32.4,0,,0,0,,3,1,0.00,,,0.00,,Matches
+César Martín,es ESP,DF,21,31,31,"2,745",30.5,4,,4,0,,11,0,0.13,,,0.13,,Matches
+Albert Nađ,rs SRB,MF,23,27,26,"2,128",23.6,1,,1,0,,9,1,0.04,,,0.04,,Matches
+Peter Dubovský,sk SVK,FW,26,32,25,"2,244",24.9,3,,3,0,,4,0,0.12,,,0.12,,Matches
+Roberto Pompei,ar ARG,MF,28,27,24,"1,943",21.6,3,,3,0,,5,0,0.14,,,0.14,,Matches
+Franck Rabarivony,mg MAD,DF,27,30,22,"2,093",23.3,0,,0,0,,11,1,0.00,,,0.00,,Matches
+Xabier Eskurza,es ESP,MF,28,24,21,"1,939",21.5,0,,0,0,,5,0,0.00,,,0.00,,Matches
+Jaime,es ESP,MF,21,26,18,"1,612",17.9,1,,1,0,,1,0,0.06,,,0.06,,Matches
+Iván Ania,es ESP,MF,20,33,17,"1,863",20.7,2,,1,1,,4,0,0.10,,,0.05,,Matches
+Iván Iglesias,es ESP,MF,26,16,15,"1,111",12.3,3,,3,0,,6,0,0.24,,,0.24,,Matches
+Joyce Moreno,es ESP,DF,23,19,11,"1,109",12.3,0,,0,0,,5,0,0.00,,,0.00,,Matches
+Ricardo Bango,es ESP,MF,29,15,11,934,10.4,0,,0,0,,2,2,0.00,,,0.00,,Matches
+Peter Møller,dk DEN,FW,26,26,8,858,9.5,1,,1,0,,0,0,0.10,,,0.10,,Matches
+Idrissa Keita,ci CIV,MF,21,7,5,365,4.1,0,,0,0,,1,0,0.00,,,0.00,,Matches
+Daniel Amieva,es ESP,MF,22,8,4,412,4.6,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Fábio Pinto,br BRA,FW,17,17,2,409,4.5,1,,1,0,,1,0,0.22,,,0.22,,Matches
+Alberto Martínez Díaz,es ESP,MF,35,3,2,137,1.5,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Juan Luis Mora,es ESP,GK,25,1,1,90,1.0,0,,,,,0,0,0.00,,,,,Matches
+José Jorge Saavedra Muñoz,,,20,1,1,90,1.0,0,,,,,0,0,0.00,,,,,Matches
+Juan González,uy URU,FW,26,2,0,32,0.4,0,,0,0,,1,0,0.00,,,0.00,,Matches
+Boris,es ESP,DF,18,1,0,29,0.3,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Antonio Rivas,es ESP,DF,32,1,0,22,0.2,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Geni,es ESP,FW,18,1,0,15,0.2,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Fernando Gamboa,ar ARG,DF,27,0,0,,0.0,0,,,,,0,0,,,,,,
+Pedro Munitis,es ESP,FW,23,37,37,"3,200",35.6,8,,8,0,,10,0,0.23,,,0.23,,Matches
+Ismael Ruiz,es ESP,MF,21,34,34,"2,885",32.1,4,,4,0,,12,2,0.12,,,0.12,,Matches
+Víctor Sánchez,es ESP,MF,22,35,34,"2,881",32.0,12,,9,3,,11,0,0.37,,,0.28,,Matches
+Washington Tais,uy URU,DF,25,35,32,"2,894",32.2,1,,1,0,,9,0,0.03,,,0.03,,Matches
+Claudio Arzeno,ar ARG,DF,27,34,32,"2,861",31.8,2,,2,0,,10,0,0.06,,,0.06,,Matches
+José María Ceballos,es ESP,GK,29,27,27,"2,404",26.7,0,,0,0,,3,0,0.00,,,0.00,,Matches
+Olof Mellberg,se SWE,"DF,MF",20,25,25,"2,146",23.8,0,,0,0,,2,1,0.00,,,0.00,,Matches
+Vladimir Beschastnykh,ru RUS,"FW,MF",24,34,22,"2,099",23.3,6,,5,1,,4,0,0.26,,,0.21,,Matches
+Txema Alonso,es ESP,"DF,MF",27,25,21,"1,936",21.5,0,,0,0,,8,0,0.00,,,0.00,,Matches
+Sergey Shustikov,xc CIS,MF,27,27,21,"1,772",19.7,1,,1,0,,3,0,0.05,,,0.05,,Matches
+Neru,es ESP,DF,24,23,21,"1,722",19.1,0,,0,0,,2,0,0.00,,,0.00,,Matches
+Sietes,es ESP,DF,24,24,20,"1,874",20.8,0,,0,0,,6,0,0.00,,,0.00,,Matches
+Jesús Merino Landaluce,es ESP,DF,30,21,20,"1,802",20.0,1,,1,0,,3,1,0.05,,,0.05,,Matches
+Ángel Vivar Dorado,es ESP,MF,24,27,16,"1,560",17.3,0,,0,0,,4,0,0.00,,,0.00,,Matches
+José Amavisca,es ESP,"FW,MF",27,15,13,"1,199",13.3,1,,1,0,,4,0,0.08,,,0.08,,Matches
+Federico Magallanes,uy URU,"FW,MF",21,17,12,895,9.9,1,,1,0,,5,0,0.10,,,0.10,,Matches
+Ángel de Juana García,es ESP,MF,30,20,6,745,8.3,0,,0,0,,7,0,0.00,,,0.00,,Matches
+Salva Ballesta,es ESP,FW,23,16,6,693,7.7,2,,2,0,,4,0,0.26,,,0.26,,Matches
+Frode Grodås,no NOR,GK,33,6,6,540,6.0,0,,,,,0,0,0.00,,,,,Matches
+Fernando Marcos Santiago,es ESP,GK,29,6,5,476,5.3,0,,0,0,,0,0,0.00,,,0.00,,Matches
+David Villabona,es ESP,"DF,MF",28,4,3,283,3.1,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Francisco Javier Sánchez Jara,es ESP,DF,28,5,3,240,2.7,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Léider Preciado,co COL,FW,21,16,2,328,3.6,2,,2,0,,1,0,0.55,,,0.55,,Matches
+Pablo Casar,es ESP,DF,19,1,0,45,0.5,0,,0,0,,0,0,0.00,,,0.00,,Matches
+José Moratón,es ESP,DF,19,1,0,19,0.2,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Txomin Arrotegi,,,18,1,0,9,0.1,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Gonzalo Colsa,es ESP,MF,19,1,0,4,0.0,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Esteban Torre,es ESP,,26,0,0,,0.0,0,,,,,0,0,,,,,,
+Antonio Karmona,es ESP,DF,30,38,38,"3,420",38.0,0,,0,0,,4,0,0.00,,,0.00,,Matches
+Hermes Desio,ar ARG,MF,28,36,36,"3,240",36.0,3,,2,1,,13,0,0.08,,,0.06,,Matches
+Pablo Gómez,es ESP,MF,28,34,34,"2,759",30.7,5,,0,5,,7,1,0.16,,,0.00,,Matches
+Iñaki Berruet,es ESP,DF,25,31,31,"2,710",30.1,0,,0,0,,6,0,0.00,,,0.00,,Matches
+Ibon Begoña,es ESP,DF,24,30,30,"2,503",27.8,1,,1,0,,12,2,0.04,,,0.04,,Matches
+Gerard López,es ESP,MF,19,29,26,"2,115",23.5,7,,7,0,,12,4,0.30,,,0.30,,Matches
+Sívori,es ESP,"FW,MF",21,36,25,"2,367",26.3,5,,5,0,,8,0,0.19,,,0.19,,Matches
+Manuel Canabal,es ESP,FW,23,30,23,"2,025",22.5,5,,5,0,,3,1,0.22,,,0.22,,Matches
+Alberto Belsué,es ESP,DF,30,22,22,"1,906",21.2,0,,0,0,,4,0,0.00,,,0.00,,Matches
+Kike Burgos,es ESP,GK,27,20,20,"1,800",20.0,0,,,,,0,0,0.00,,,,,Matches
+Tito Subero,es ESP,GK,28,18,18,"1,620",18.0,0,,0,0,,2,0,0.00,,,0.00,,Matches
+Julio Salinas,es ESP,FW,35,22,17,"1,495",16.6,4,,4,0,,5,0,0.24,,,0.24,,Matches
+Iván Rocha,br BRA,DF,29,24,17,"1,401",15.6,0,,0,0,,9,2,0.00,,,0.00,,Matches
+Magno Mocelin,br BRA,FW,24,29,16,"1,627",18.1,3,,3,0,,5,0,0.17,,,0.17,,Matches
+Vitamina Sánchez,ar ARG,MF,25,18,15,"1,080",12.0,1,,1,0,,3,0,0.08,,,0.08,,Matches
+Alberto Albístegui,es ESP,DF,33,19,14,"1,274",14.2,0,,0,0,,4,0,0.00,,,0.00,,Matches
+Alfonso Vera,es ESP,MF,24,16,11,864,9.6,0,,0,0,,4,0,0.00,,,0.00,,Matches
+Josete,es ESP,DF,28,15,9,927,10.3,0,,0,0,,4,0,0.00,,,0.00,,Matches
+Jorge Azkoitia,es ESP,MF,24,24,8,"1,142",12.7,1,,1,0,,7,2,0.08,,,0.08,,Matches
+Raúl Gañán,es ESP,DF,23,7,4,395,4.4,0,,0,0,,2,0,0.00,,,0.00,,Matches
+Ángel Morales,es ESP,MF,23,6,4,385,4.3,0,,0,0,,3,0,0.00,,,0.00,,Matches
+Nicola Berti,it ITA,MF,31,8,0,156,1.7,1,,1,0,,1,2,0.58,,,0.58,,Matches
+Santiago Revilla Herranz,,,26,7,0,113,1.3,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Álex Fernández Sama,es ESP,MF,24,4,0,75,0.8,0,,0,0,,1,0,0.00,,,0.00,,Matches
+Ismael Santiago,es ESP,MF,20,2,0,51,0.6,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Solaun,es ESP,MF,23,0,0,,0.0,0,,,,,0,0,,,,,,
+Óscar Montiel,es ESP,DF,28,37,35,"3,164",35.2,0,,0,0,,7,0,0.00,,,0.00,,Matches
+Raymond Kalla,cm CMR,DF,23,34,34,"2,950",32.8,0,,0,0,,7,0,0.00,,,0.00,,Matches
+David Belenguer,es ESP,DF,25,36,34,"2,895",32.2,0,,0,0,,8,0,0.00,,,0.00,,Matches
+Félix Carvallo,es ESP,DF,30,35,33,"2,905",32.3,2,,2,0,,8,2,0.06,,,0.06,,Matches
+Ronny Gaspercic,be BEL,GK,29,32,32,"2,845",31.6,0,,0,0,,2,1,0.00,,,0.00,,Matches
+Toni Velamazán,es ESP,MF,21,33,27,"2,258",25.1,6,,5,1,,5,0,0.24,,,0.20,,Matches
+David Castedo,es ESP,DF,24,32,26,"2,387",26.5,0,,0,0,,1,0,0.00,,,0.00,,Matches
+Alejandro Duré,ar ARG,FW,27,33,25,"2,334",25.9,6,,6,0,,1,0,0.23,,,0.23,,Matches
+Manuel,,,29,37,24,"2,152",23.9,1,,1,0,,5,0,0.04,,,0.04,,Matches
+José Luis Soto,es ESP,FW,25,27,19,"1,683",18.7,2,,2,0,,0,0,0.11,,,0.11,,Matches
+Laurent Viaud,fr FRA,MF,28,19,18,"1,484",16.5,1,,1,0,,7,1,0.06,,,0.06,,Matches
+Poli,es ESP,DF,21,26,17,"1,602",17.8,0,,0,0,,5,0,0.00,,,0.00,,Matches
+Iván Gabrich,ar ARG,FW,25,28,16,"1,566",17.4,2,,2,0,,0,0,0.11,,,0.11,,Matches
+Antonio Esposito,ch SUI,MF,25,20,16,"1,454",16.2,2,,2,0,,3,0,0.12,,,0.12,,Matches
+Pedro José,es ESP,MF,30,30,15,"1,625",18.1,0,,0,0,,6,0,0.00,,,0.00,,Matches
+Juanito,es ESP,DF,33,20,15,"1,304",14.5,0,,0,0,,3,0,0.00,,,0.00,,Matches
+Alberto Toril,es ESP,MF,25,16,8,792,8.8,2,,1,1,,3,0,0.23,,,0.11,,Matches
+Amador,es ESP,GK,29,7,6,579,6.4,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Luis Rueda,ar ARG,FW,26,7,6,516,5.7,0,,0,0,,2,0,0.00,,,0.00,,Matches
+Ahmed Ouattara,ci CIV,FW,28,7,5,357,4.0,1,,1,0,,0,0,0.25,,,0.25,,Matches
+Iñaki Eraña,es ESP,MF,33,5,4,367,4.1,0,,0,0,,1,0,0.00,,,0.00,,Matches
+Goran Bogdanović,rs SRB,MF,31,7,3,284,3.2,0,,0,0,,2,0,0.00,,,0.00,,Matches
+Jean Ferrari,pe PER,MF,23,1,0,12,0.1,1,,1,0,,0,0,7.50,,,7.50,,Matches
+Diego Torres,es ESP,FW,19,1,0,7,0.1,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Miroslav Čermelj,mx MEX,DF,25,0,0,,0.0,0,,,,,0,0,,,,,,
+David Cortés,es ESP,DF,18,0,0,,0.0,0,,,,,0,0,,,,,,
+Padilla,es ESP,DF,28,0,0,,0.0,0,,,,,0,0,,,,,,
+Santi,,,24,0,0,,0.0,0,,,,,0,0,,,,,,
+Jesús Vázquez,es ESP,MF,18,0,0,,0.0,0,,,,,0,0,,,,,,
+Andrés Palop,es ESP,GK,24,35,35,"3,150",35.0,0,,0,0,,3,0,0.00,,,0.00,,Matches
+Roberto Fernández Bonillo,es ESP,MF,36,37,35,"3,125",34.7,2,,2,0,,4,0,0.06,,,0.06,,Matches
+David Albelda,es ESP,"DF,MF",20,35,35,"3,092",34.4,2,,2,0,,13,3,0.06,,,0.06,,Matches
+Gheorghe Craioveanu,ro ROU,FW,30,35,34,"2,740",30.4,13,,13,0,,5,1,0.43,,,0.43,,Matches
+Gerardo,es ESP,"DF,MF",23,34,31,"2,824",31.4,2,,2,0,,11,3,0.06,,,0.06,,Matches
+Aitor Arregi,es ESP,,27,32,30,"2,562",28.5,0,,0,0,,6,0,0.00,,,0.00,,Matches
+Moisés,es ESP,FW,27,33,28,"2,436",27.1,7,,6,1,,11,4,0.26,,,0.22,,Matches
+Igor Taševski,rs SRB,DF,26,29,28,"2,404",26.7,0,,0,0,,4,3,0.00,,,0.00,,Matches
+Antonio Díaz Jurado,es ESP,MF,28,35,27,"2,431",27.0,3,,3,0,,4,0,0.11,,,0.11,,Matches
+Pascual Donat,es ESP,DF,30,31,27,"2,343",26.0,0,,0,0,,8,2,0.00,,,0.00,,Matches
+Alberto Saavedra Brazo,es ESP,MF,26,34,24,"2,252",25.0,3,,3,0,,12,0,0.12,,,0.12,,Matches
+Manuel Alfaro,es ESP,FW,27,35,22,"2,148",23.9,12,,6,6,,4,1,0.50,,,0.25,,Matches
+Óscar Téllez,es ESP,DF,23,20,20,"1,679",18.7,0,,0,0,,10,2,0.00,,,0.00,,Matches
+Jesús García Sanjuán,es ESP,MF,26,22,11,"1,071",11.9,0,,0,0,,7,0,0.00,,,0.00,,Matches
+Imanol Alguacil,es ESP,DF,27,8,7,545,6.1,1,,1,0,,4,0,0.17,,,0.17,,Matches
+Thomas Christiansen,es ESP,FW,25,19,6,557,6.2,1,,1,0,,1,0,0.16,,,0.16,,Matches
+José Pérez Serer,es ESP,DF,32,8,6,521,5.8,0,,0,0,,1,0,0.00,,,0.00,,Matches
+Walter Gaitán,ar ARG,"FW,MF",21,12,5,501,5.6,0,,0,0,,2,0,0.00,,,0.00,,Matches
+César Láinez,es ESP,GK,21,3,3,270,3.0,0,,,,,0,0,0.00,,,,,Matches
+Javi Sanchis,es ESP,MF,26,11,2,372,4.1,0,,0,0,,2,0,0.00,,,0.00,,Matches
+Sandro Mendes,cv CPV,MF,21,2,1,100,1.1,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Marius Iordache,ro ROU,DF,19,1,1,65,0.7,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Javier Prats García,es ESP,,22,4,0,83,0.9,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Ángel Luis,es ESP,MF,28,2,0,74,0.8,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Paco Salillas,es ESP,FW,32,2,0,15,0.2,0,,0,0,,1,0,0.00,,,0.00,,Matches
+Quique Medina,es ESP,DF,23,1,0,11,0.1,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Garikoitz Basauri Amezua,es ESP,GK,23,0,0,,0.0,0,,,,,0,0,,,,,,Matches
+Željko Kalajdžić,rs SRB,MF,20,0,0,,0.0,0,,,,,0,0,,,,,,Matches
+Luis Pascual,es ESP,GK,30,0,0,,0.0,0,,,,,0,0,,,,,,
+Emerson,br BRA,MF,26,34,34,"3,046",33.8,2,,2,0,,15,1,0.06,,,0.06,,Matches
+Roy Makaay,nl NED,FW,23,36,32,"2,786",31.0,14,,14,0,,1,0,0.45,,,0.45,,Matches
+Alexis,es ESP,DF,24,31,31,"2,777",30.9,3,,3,0,,6,1,0.10,,,0.10,,Matches
+Juanele,es ESP,FW,27,33,31,"2,450",27.2,5,,3,2,,5,0,0.18,,,0.11,,Matches
+Dani González,es ESP,FW,26,29,29,"2,536",28.2,0,,0,0,,9,1,0.00,,,0.00,,Matches
+Slaviša Jokanović,rs SRB,MF,29,29,25,"2,297",25.5,2,,0,2,,10,0,0.08,,,0.00,,Matches
+Juan Carlos Unzué,es ESP,GK,31,23,23,"2,070",23.0,0,,0,0,,2,0,0.00,,,0.00,,Matches
+Julio Llorente,es ESP,DF,32,21,20,"1,798",20.0,1,,1,0,,5,0,0.05,,,0.05,,Matches
+Pablo Paz,ar ARG,DF,25,17,17,"1,448",16.1,0,,0,0,,8,2,0.00,,,0.00,,Matches
+Chano,es ESP,MF,33,19,16,"1,391",15.5,0,,0,0,,7,4,0.00,,,0.00,,Matches
+Carlos Navarro Montoya,co COL,GK,32,15,15,"1,350",15.0,0,,0,0,,2,0,0.00,,,0.00,,Matches
+Samuel Slovák,sk SVK,"FW,MF",22,18,15,"1,286",14.3,1,,1,0,,2,0,0.07,,,0.07,,Matches
+Antonio Pinilla,es ESP,FW,27,19,14,"1,280",14.2,1,,1,0,,3,1,0.07,,,0.07,,Matches
+Felipe Miñambres,es ESP,MF,33,20,14,"1,034",11.5,0,,0,0,,6,0,0.00,,,0.00,,Matches
+Federico Lussenhoff,ar ARG,DF,24,13,13,"1,098",12.2,0,,0,0,,1,0,0.00,,,0.00,,Matches
+Federico Basavilbaso,ar ARG,MF,24,17,12,"1,048",11.6,0,,0,0,,4,0,0.00,,,0.00,,Matches
+André Luiz Moreira,br BRA,"DF,MF",23,12,12,"1,030",11.4,2,,2,0,,6,2,0.17,,,0.17,,Matches
+Mista,es ESP,FW,19,13,9,846,9.4,3,,3,0,,3,0,0.32,,,0.32,,Matches
+Pier,es ESP,FW,26,12,9,790,8.8,4,,4,0,,3,0,0.46,,,0.46,,Matches
+Antonio Robaina,es ESP,MF,23,15,9,773,8.6,0,,0,0,,2,0,0.00,,,0.00,,Matches
+Antonio Mata,es ESP,DF,29,11,8,756,8.4,0,,0,0,,2,0,0.00,,,0.00,,Matches
+Sergio Ballesteros,es ESP,DF,22,8,8,715,7.9,1,,1,0,,2,3,0.13,,,0.13,,Matches
+Ferdi Vierklau,nl NED,DF,25,8,8,632,7.0,0,,0,0,,1,1,0.00,,,0.00,,Matches
+Domingos Paciência,pt POR,FW,29,19,5,665,7.4,1,,1,0,,2,0,0.14,,,0.14,,Matches
+Javi López,es ESP,DF,24,11,5,652,7.2,0,,0,0,,2,2,0.00,,,0.00,,Matches
+Jonay Martín Abreu,,,19,6,2,308,3.4,0,,0,0,,2,0,0.00,,,0.00,,Matches
+Meho Kodro,ba BIH,FW,31,18,1,395,4.4,0,,0,0,,4,0,0.00,,,0.00,,Matches
+Jacob,es ESP,,20,1,1,74,0.8,0,,0,0,,1,0,0.00,,,0.00,,Matches
+Leandro Machado,br BRA,FW,22,3,0,66,0.7,0,,0,0,,1,0,0.00,,,0.00,,Matches
+Marcelino,,,24,4,0,34,0.4,0,,0,0,,0,0,0.00,,,0.00,,Matches
+José Iván González Torres,,,18,1,0,16,0.2,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Gustavo,es ESP,MF,19,1,0,12,0.1,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Pavel Hapal,cz CZE,MF,29,0,0,,0.0,0,,,,,0,0,,,,,,
+Marcelo Ojeda,ar ARG,GK,29,0,0,,0.0,0,,,,,0,0,,,,,,
+Martín Vellisca,es ESP,MF,26,38,38,"3,368",37.4,1,,1,0,,3,0,0.03,,,0.03,,Matches
+Edu Alonso,es ESP,MF,24,36,36,"3,232",35.9,3,,3,0,,5,0,0.08,,,0.08,,Matches
+Marco Lanna,it ITA,DF,30,34,34,"2,904",32.3,1,,1,0,,7,1,0.03,,,0.03,,Matches
+Everton Giovanella,br BRA,MF,27,33,33,"2,923",32.5,1,,1,0,,13,6,0.03,,,0.03,,Matches
+Bogdan Stelea,ro ROU,GK,30,33,33,"2,917",32.4,0,,0,0,,1,1,0.00,,,0.00,,Matches
+Sergio Corino,es ESP,DF,23,33,31,"2,870",31.9,3,,2,1,,7,0,0.09,,,0.06,,Matches
+Walter Silvani,ar ARG,FW,27,31,25,"2,067",23.0,3,,3,0,,2,0,0.13,,,0.13,,Matches
+Martín Cardetti,ar ARG,FW,22,24,20,"1,695",18.8,5,,5,0,,6,0,0.27,,,0.27,,Matches
+Loren,es ESP,DF,28,21,19,"1,723",19.1,2,,2,0,,5,1,0.10,,,0.10,,Matches
+José Américo Taira da Costa,,,29,25,19,"1,707",19.0,0,,0,0,,11,0,0.00,,,0.00,,Matches
+Rogerio Paulo Brito,pt POR,MF,22,25,19,"1,604",17.8,0,,0,0,,6,0,0.00,,,0.00,,Matches
+Dubravko Pavličić,hr CRO,DF,30,18,18,"1,569",17.4,1,,1,0,,7,2,0.06,,,0.06,,Matches
+Carlos Casartelli,ar ARG,FW,23,30,15,"1,499",16.7,1,,1,0,,6,0,0.06,,,0.06,,Matches
+Leonardo Ramos,uy URU,"DF,MF",28,15,15,"1,299",14.4,2,,1,1,,3,2,0.14,,,0.07,,Matches
+Cătălin Munteanu,ro ROU,MF,19,27,13,"1,374",15.3,3,,3,0,,3,0,0.20,,,0.20,,Matches
+Nuno Luís,pt POR,DF,23,9,9,720,8.0,0,,0,0,,1,0,0.00,,,0.00,,Matches
+Joan Barbarà,es ESP,FW,32,18,9,698,7.8,1,,1,0,,0,0,0.13,,,0.13,,Matches
+Lucian Marinescu,ro ROU,MF,26,10,7,532,5.9,0,,0,0,,1,0,0.00,,,0.00,,Matches
+Cristian Lupidio,ar ARG,MF,21,10,6,678,7.5,0,,0,0,,4,0,0.00,,,0.00,,Matches
+José Aizpurúa,es ESP,GK,28,6,5,503,5.6,0,,0,0,,1,0,0.00,,,0.00,,Matches
+Tomás,es ESP,"DF,MF",19,10,5,494,5.5,0,,0,0,,2,0,0.00,,,0.00,,Matches
+Ricardo Lunari,ar ARG,MF,28,14,4,530,5.9,0,,0,0,,2,0,0.00,,,0.00,,Matches
+Pablo Zegarra,pe PER,MF,25,5,3,260,2.9,1,,1,0,,3,0,0.35,,,0.35,,Matches
+Dino,,DF,20,1,1,90,1.0,0,,,,,0,0,0.00,,,,,Matches
+Marcos Redero Hernández,es ESP,DF,22,1,1,90,1.0,0,,0,0,,1,0,0.00,,,0.00,,Matches
+Ángel Pedro Medina,es ESP,MF,31,1,0,35,0.4,0,,0,0,,0,0,0.00,,,0.00,,Matches
+Tom,,GK,20,0,0,,0.0,0,,,,,0,0,,,,,,
